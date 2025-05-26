@@ -1,0 +1,1001 @@
+Ticket_ID,Channel,Category,Priority,Created_Date,Resolved_Date,Status,Agent
+TKT_100000,Phone,Account Access,Low,2024-12-16,2024-12-20,Resolved,Agent_19
+TKT_100001,Phone,General,Medium,2024-12-26,2024-12-28,Resolved,Agent_2
+TKT_100002,Web,Account Access,Low,2025-01-08,2025-01-08,Resolved,Agent_12
+TKT_100003,Chat,Billing,High,2024-11-28,2024-11-29,Resolved,Agent_10
+TKT_100004,Web,Account Access,Low,2024-09-15,2024-09-16,Resolved,Agent_19
+TKT_100005,Web,General,Low,2025-01-09,2025-01-14,Resolved,Agent_9
+TKT_100006,Phone,Billing,Low,2024-10-30,2024-11-01,Resolved,Agent_2
+TKT_100007,Web,Account Access,Medium,2025-02-19,,Pending,Agent_17
+TKT_100008,Web,Billing,Medium,2024-09-02,2024-09-03,Resolved,Agent_4
+TKT_100009,Chat,Technical,Low,2024-10-14,2024-10-22,Resolved,Agent_14
+TKT_100010,Phone,Account Access,Medium,2024-10-10,2024-10-15,Resolved,Agent_15
+TKT_100011,Email,Account Access,Medium,2025-01-02,2025-01-02,Resolved,Agent_13
+TKT_100012,Email,Technical,Low,2024-11-27,2024-11-28,Resolved,Agent_11
+TKT_100013,Phone,Technical,Low,2025-02-10,,In Progress,Agent_9
+TKT_100014,Web,General,Low,2024-09-12,,In Progress,Agent_5
+TKT_100015,Phone,Account Access,Medium,2024-10-05,2024-10-06,Resolved,Agent_14
+TKT_100016,Phone,Technical,Low,2025-01-20,2025-01-22,Resolved,Agent_15
+TKT_100017,Chat,Billing,Medium,2025-02-26,2025-02-26,Resolved,Agent_20
+TKT_100018,Email,Account Access,Medium,2025-01-29,2025-01-31,Resolved,Agent_4
+TKT_100019,Email,Account Access,Medium,2024-11-25,2024-12-01,Resolved,Agent_6
+TKT_100020,Web,Account Access,Medium,2024-11-23,2024-11-29,Resolved,Agent_7
+TKT_100021,Chat,Technical,Medium,2024-09-27,2024-09-28,Resolved,Agent_9
+TKT_100022,Phone,General,High,2025-02-02,2025-02-03,Resolved,Agent_19
+TKT_100023,Chat,Account Access,Medium,2024-10-29,2024-10-30,Resolved,Agent_9
+TKT_100024,Web,Technical,High,2024-10-22,2024-10-22,Resolved,Agent_3
+TKT_100025,Email,Technical,Medium,2024-11-20,2024-11-20,Resolved,Agent_5
+TKT_100026,Web,Technical,Medium,2025-01-04,2025-01-04,Resolved,Agent_6
+TKT_100027,Web,General,Medium,2025-01-01,2025-01-01,Resolved,Agent_5
+TKT_100028,Web,Billing,Medium,2025-01-17,2025-01-22,Resolved,Agent_9
+TKT_100029,Web,General,High,2024-12-02,2024-12-07,Resolved,Agent_4
+TKT_100030,Phone,Billing,Medium,2025-01-25,,Escalated,Agent_1
+TKT_100031,Web,Account Access,Medium,2024-12-13,2024-12-13,Resolved,Agent_18
+TKT_100032,Phone,General,Low,2024-12-08,2024-12-08,Resolved,Agent_16
+TKT_100033,Email,Account Access,Medium,2024-09-02,2024-09-18,Resolved,Agent_5
+TKT_100034,Email,Account Access,Medium,2024-09-09,2024-09-09,Resolved,Agent_16
+TKT_100035,Phone,Account Access,Low,2024-12-29,2025-01-04,Resolved,Agent_17
+TKT_100036,Web,Account Access,Low,2024-11-23,2024-11-25,Resolved,Agent_3
+TKT_100037,Email,Technical,Medium,2024-12-19,2024-12-21,Resolved,Agent_16
+TKT_100038,Email,Technical,High,2024-11-07,2024-11-07,Resolved,Agent_20
+TKT_100039,Web,Account Access,Low,2025-01-23,2025-01-24,Resolved,Agent_19
+TKT_100040,Chat,General,Medium,2025-02-05,2025-02-15,Resolved,Agent_8
+TKT_100041,Phone,General,Low,2024-09-30,2024-10-03,Resolved,Agent_1
+TKT_100042,Email,Account Access,Low,2025-01-25,2025-01-27,Resolved,Agent_17
+TKT_100043,Web,Account Access,Medium,2024-10-16,2024-10-23,Resolved,Agent_9
+TKT_100044,Email,Account Access,Medium,2024-10-16,2024-10-26,Resolved,Agent_1
+TKT_100045,Web,General,Medium,2025-02-07,2025-02-12,Resolved,Agent_18
+TKT_100046,Email,Billing,Low,2024-10-28,,Pending,Agent_15
+TKT_100047,Chat,General,High,2025-02-02,2025-02-03,Resolved,Agent_8
+TKT_100048,Email,Technical,Low,2025-02-23,2025-02-25,Resolved,Agent_3
+TKT_100049,Chat,Technical,Medium,2024-10-30,2024-11-01,Resolved,Agent_13
+TKT_100050,Web,Technical,High,2025-01-22,2025-01-22,Resolved,Agent_15
+TKT_100051,Web,Billing,High,2024-11-25,2024-11-26,Resolved,Agent_17
+TKT_100052,Web,Billing,Low,2024-10-24,2024-10-26,Resolved,Agent_8
+TKT_100053,Email,Account Access,Medium,2024-09-05,2024-09-06,Resolved,Agent_20
+TKT_100054,Chat,General,Medium,2025-02-15,2025-02-18,Resolved,Agent_10
+TKT_100055,Chat,General,Low,2024-11-02,2024-11-03,Resolved,Agent_5
+TKT_100056,Chat,Technical,High,2025-01-05,2025-01-08,Resolved,Agent_1
+TKT_100057,Phone,Billing,Medium,2024-12-27,2024-12-30,Resolved,Agent_1
+TKT_100058,Web,Technical,Low,2024-11-08,2024-11-10,Resolved,Agent_12
+TKT_100059,Chat,Account Access,High,2024-11-25,2024-11-25,Resolved,Agent_5
+TKT_100060,Phone,Technical,Medium,2025-01-22,2025-01-22,Resolved,Agent_7
+TKT_100061,Web,Technical,Medium,2024-12-10,2024-12-11,Resolved,Agent_5
+TKT_100062,Web,Billing,Medium,2025-01-16,2025-01-18,Resolved,Agent_1
+TKT_100063,Web,Technical,Medium,2024-09-16,2024-09-16,Resolved,Agent_17
+TKT_100064,Web,Account Access,Medium,2024-11-23,2024-11-25,Resolved,Agent_1
+TKT_100065,Email,Technical,Medium,2024-12-10,2024-12-12,Resolved,Agent_8
+TKT_100066,Chat,General,High,2025-01-19,2025-01-19,Resolved,Agent_19
+TKT_100067,Chat,General,Medium,2024-11-29,2024-11-30,Resolved,Agent_2
+TKT_100068,Phone,Technical,Medium,2024-10-28,2024-10-31,Resolved,Agent_4
+TKT_100069,Email,Technical,Low,2025-02-11,2025-02-11,Resolved,Agent_3
+TKT_100070,Email,General,Medium,2024-12-05,2024-12-06,Resolved,Agent_5
+TKT_100071,Web,Technical,Medium,2024-09-23,2024-09-27,Resolved,Agent_17
+TKT_100072,Email,Billing,Medium,2024-11-25,,Escalated,Agent_9
+TKT_100073,Phone,Account Access,Medium,2024-09-28,2024-10-06,Resolved,Agent_19
+TKT_100074,Chat,General,High,2024-11-08,2024-11-09,Resolved,Agent_4
+TKT_100075,Email,General,Low,2024-10-09,2024-10-09,Resolved,Agent_7
+TKT_100076,Chat,General,High,2025-02-10,2025-02-16,Resolved,Agent_18
+TKT_100077,Phone,Account Access,Medium,2025-01-23,,Escalated,Agent_8
+TKT_100078,Chat,Technical,Low,2024-12-31,2024-12-31,Resolved,Agent_6
+TKT_100079,Phone,Account Access,Medium,2024-11-04,2024-11-10,Resolved,Agent_7
+TKT_100080,Email,Technical,Low,2024-11-09,2024-11-12,Resolved,Agent_12
+TKT_100081,Chat,General,Medium,2024-11-29,2024-11-30,Resolved,Agent_13
+TKT_100082,Email,Billing,Medium,2024-10-28,2024-11-01,Resolved,Agent_9
+TKT_100083,Phone,Technical,Medium,2024-12-01,2024-12-10,Resolved,Agent_17
+TKT_100084,Email,Account Access,Medium,2024-12-26,,Escalated,Agent_15
+TKT_100085,Email,Account Access,Medium,2025-02-11,2025-02-13,Resolved,Agent_18
+TKT_100086,Phone,Technical,Medium,2025-01-21,2025-01-22,Resolved,Agent_3
+TKT_100087,Web,General,High,2024-09-12,,Pending,Agent_12
+TKT_100088,Web,Account Access,Medium,2024-12-31,2024-12-31,Resolved,Agent_18
+TKT_100089,Web,Account Access,Medium,2025-02-02,2025-02-05,Resolved,Agent_1
+TKT_100090,Email,Account Access,Medium,2025-02-04,,Pending,Agent_18
+TKT_100091,Phone,Account Access,Medium,2025-01-31,2025-02-01,Resolved,Agent_18
+TKT_100092,Phone,Technical,High,2024-10-03,2024-10-07,Resolved,Agent_15
+TKT_100093,Email,General,Medium,2024-11-02,2024-11-03,Resolved,Agent_17
+TKT_100094,Email,Technical,Medium,2024-12-08,,In Progress,Agent_6
+TKT_100095,Web,Technical,Medium,2025-01-11,2025-01-28,Resolved,Agent_5
+TKT_100096,Email,Technical,Low,2024-11-22,2024-11-22,Resolved,Agent_14
+TKT_100097,Email,General,Medium,2024-09-04,2024-09-04,Resolved,Agent_2
+TKT_100098,Web,General,High,2025-02-01,2025-02-03,Resolved,Agent_3
+TKT_100099,Phone,Billing,Low,2024-10-24,,In Progress,Agent_17
+TKT_100100,Web,General,High,2024-11-24,2024-11-27,Resolved,Agent_7
+TKT_100101,Chat,Account Access,High,2024-10-08,2024-10-10,Resolved,Agent_15
+TKT_100102,Phone,General,Low,2024-10-22,2024-10-24,Resolved,Agent_15
+TKT_100103,Web,Billing,Medium,2024-10-21,2024-10-24,Resolved,Agent_10
+TKT_100104,Web,Technical,Medium,2024-11-23,2024-11-24,Resolved,Agent_2
+TKT_100105,Email,Billing,Medium,2024-12-24,2024-12-26,Resolved,Agent_16
+TKT_100106,Phone,General,High,2024-09-08,2024-09-08,Resolved,Agent_3
+TKT_100107,Web,General,Medium,2025-02-07,2025-02-07,Resolved,Agent_19
+TKT_100108,Email,Technical,Medium,2025-02-17,,Escalated,Agent_5
+TKT_100109,Email,Account Access,Medium,2024-10-04,2024-10-04,Resolved,Agent_9
+TKT_100110,Chat,Technical,Medium,2024-10-26,2024-11-01,Resolved,Agent_17
+TKT_100111,Chat,Account Access,Low,2024-12-22,2024-12-24,Resolved,Agent_15
+TKT_100112,Phone,Account Access,Medium,2024-09-28,2024-09-29,Resolved,Agent_13
+TKT_100113,Chat,Billing,High,2024-12-24,2024-12-27,Resolved,Agent_14
+TKT_100114,Phone,General,High,2024-09-18,2024-09-19,Resolved,Agent_15
+TKT_100115,Web,Technical,Low,2024-09-28,2024-09-28,Resolved,Agent_7
+TKT_100116,Chat,Billing,Medium,2024-09-25,2024-10-01,Resolved,Agent_4
+TKT_100117,Chat,General,Medium,2025-01-24,2025-01-24,Resolved,Agent_2
+TKT_100118,Phone,Account Access,Medium,2024-11-22,2024-11-23,Resolved,Agent_20
+TKT_100119,Chat,Account Access,Medium,2024-10-29,2024-11-10,Resolved,Agent_1
+TKT_100120,Email,Billing,Medium,2024-11-09,2024-11-09,Resolved,Agent_11
+TKT_100121,Chat,Billing,Low,2025-01-30,,In Progress,Agent_8
+TKT_100122,Email,Account Access,Low,2024-09-06,2024-09-07,Resolved,Agent_4
+TKT_100123,Phone,Billing,Low,2024-12-03,2024-12-03,Resolved,Agent_2
+TKT_100124,Phone,General,Medium,2025-02-26,2025-03-03,Resolved,Agent_4
+TKT_100125,Phone,Account Access,Medium,2024-12-22,2024-12-24,Resolved,Agent_14
+TKT_100126,Web,Billing,Medium,2025-01-17,2025-01-25,Resolved,Agent_3
+TKT_100127,Email,Billing,Medium,2024-09-10,2024-09-12,Resolved,Agent_2
+TKT_100128,Email,Account Access,Low,2024-11-04,,Escalated,Agent_11
+TKT_100129,Phone,Account Access,Medium,2025-02-10,2025-02-11,Resolved,Agent_12
+TKT_100130,Chat,Billing,Low,2025-01-15,2025-01-15,Resolved,Agent_1
+TKT_100131,Web,Account Access,Medium,2024-11-03,2024-11-07,Resolved,Agent_5
+TKT_100132,Chat,Account Access,High,2025-02-12,2025-02-17,Resolved,Agent_4
+TKT_100133,Email,Technical,Medium,2025-01-24,2025-01-29,Resolved,Agent_14
+TKT_100134,Web,General,Medium,2024-12-06,2024-12-10,Resolved,Agent_17
+TKT_100135,Email,General,Medium,2024-10-23,2024-10-30,Resolved,Agent_19
+TKT_100136,Chat,Billing,Medium,2025-02-26,2025-02-27,Resolved,Agent_15
+TKT_100137,Phone,Technical,Medium,2025-02-02,2025-02-06,Resolved,Agent_1
+TKT_100138,Email,Technical,Low,2024-10-03,2024-10-03,Resolved,Agent_10
+TKT_100139,Email,General,Low,2024-12-27,2025-01-01,Resolved,Agent_4
+TKT_100140,Email,Account Access,Medium,2024-09-15,2024-09-19,Resolved,Agent_15
+TKT_100141,Web,Account Access,Low,2025-02-02,2025-02-05,Resolved,Agent_4
+TKT_100142,Chat,General,Medium,2025-01-26,2025-01-26,Resolved,Agent_6
+TKT_100143,Chat,Account Access,Medium,2024-11-29,2024-12-07,Resolved,Agent_13
+TKT_100144,Web,Billing,High,2024-12-20,2024-12-23,Resolved,Agent_12
+TKT_100145,Web,Account Access,Medium,2024-12-29,2024-12-29,Resolved,Agent_17
+TKT_100146,Web,General,Medium,2024-10-21,2024-10-25,Resolved,Agent_11
+TKT_100147,Phone,Technical,High,2025-01-27,2025-01-27,Resolved,Agent_1
+TKT_100148,Phone,Billing,Medium,2025-02-15,2025-02-17,Resolved,Agent_9
+TKT_100149,Chat,Account Access,Low,2025-02-01,2025-02-02,Resolved,Agent_11
+TKT_100150,Chat,Billing,Medium,2025-02-09,2025-02-16,Resolved,Agent_12
+TKT_100151,Phone,General,Medium,2024-09-25,2024-09-27,Resolved,Agent_1
+TKT_100152,Email,Technical,Medium,2025-01-28,2025-01-28,Resolved,Agent_17
+TKT_100153,Phone,Technical,Low,2025-02-24,2025-02-26,Resolved,Agent_8
+TKT_100154,Email,General,Medium,2025-01-19,2025-01-20,Resolved,Agent_19
+TKT_100155,Chat,Account Access,Medium,2024-10-19,2024-10-19,Resolved,Agent_8
+TKT_100156,Phone,Billing,Medium,2024-12-24,2024-12-25,Resolved,Agent_17
+TKT_100157,Chat,Billing,Medium,2024-11-02,2024-11-02,Resolved,Agent_7
+TKT_100158,Phone,Account Access,Medium,2024-12-19,2024-12-21,Resolved,Agent_18
+TKT_100159,Phone,Technical,Medium,2024-10-27,2024-10-27,Resolved,Agent_8
+TKT_100160,Chat,Technical,Low,2024-11-06,2024-11-12,Resolved,Agent_8
+TKT_100161,Chat,General,Medium,2024-11-17,2024-11-19,Resolved,Agent_16
+TKT_100162,Web,Account Access,Medium,2025-01-20,2025-01-21,Resolved,Agent_7
+TKT_100163,Chat,General,Low,2024-11-24,2024-11-24,Resolved,Agent_4
+TKT_100164,Email,Account Access,Low,2025-01-07,2025-01-12,Resolved,Agent_10
+TKT_100165,Phone,Billing,Medium,2024-12-28,2024-12-28,Resolved,Agent_6
+TKT_100166,Web,Billing,Medium,2024-10-23,2024-10-24,Resolved,Agent_12
+TKT_100167,Web,Technical,Low,2024-12-29,2025-01-10,Resolved,Agent_17
+TKT_100168,Chat,General,Medium,2024-09-09,2024-09-11,Resolved,Agent_7
+TKT_100169,Email,Billing,Medium,2024-09-04,2024-09-04,Resolved,Agent_2
+TKT_100170,Phone,Technical,High,2025-01-24,2025-01-26,Resolved,Agent_9
+TKT_100171,Chat,Billing,Medium,2025-01-31,2025-02-02,Resolved,Agent_10
+TKT_100172,Chat,Technical,Medium,2024-10-01,2024-10-07,Resolved,Agent_12
+TKT_100173,Email,Technical,Medium,2025-01-16,2025-01-23,Resolved,Agent_14
+TKT_100174,Web,Billing,High,2024-12-16,,In Progress,Agent_11
+TKT_100175,Web,General,Medium,2024-12-22,2024-12-25,Resolved,Agent_2
+TKT_100176,Phone,General,Low,2025-01-28,2025-01-31,Resolved,Agent_4
+TKT_100177,Phone,Account Access,High,2024-11-20,2024-11-22,Resolved,Agent_2
+TKT_100178,Email,Billing,Medium,2024-11-12,2024-11-12,Resolved,Agent_11
+TKT_100179,Web,Billing,Medium,2024-10-05,2024-10-10,Resolved,Agent_12
+TKT_100180,Phone,Billing,High,2024-09-12,,In Progress,Agent_17
+TKT_100181,Email,Technical,Low,2024-10-25,,In Progress,Agent_8
+TKT_100182,Phone,Technical,Low,2024-12-27,2024-12-30,Resolved,Agent_18
+TKT_100183,Email,Account Access,Medium,2025-02-01,2025-02-01,Resolved,Agent_10
+TKT_100184,Web,General,Low,2024-09-26,2024-09-28,Resolved,Agent_14
+TKT_100185,Phone,Technical,Low,2024-12-24,2024-12-31,Resolved,Agent_18
+TKT_100186,Phone,Billing,High,2025-01-24,2025-01-26,Resolved,Agent_14
+TKT_100187,Phone,Account Access,Medium,2024-10-15,2024-10-15,Resolved,Agent_8
+TKT_100188,Chat,General,Medium,2024-10-09,2024-10-10,Resolved,Agent_13
+TKT_100189,Chat,Technical,Low,2025-02-17,2025-02-23,Resolved,Agent_3
+TKT_100190,Chat,Billing,High,2024-09-13,2024-09-15,Resolved,Agent_3
+TKT_100191,Phone,General,High,2024-09-29,2024-10-03,Resolved,Agent_12
+TKT_100192,Email,Account Access,Low,2024-12-30,2025-01-03,Resolved,Agent_7
+TKT_100193,Web,Technical,Low,2025-02-24,2025-02-24,Resolved,Agent_18
+TKT_100194,Web,Billing,Medium,2025-01-31,2025-01-31,Resolved,Agent_15
+TKT_100195,Email,General,Medium,2024-11-27,2024-11-27,Resolved,Agent_5
+TKT_100196,Email,Technical,High,2024-10-09,2024-10-15,Resolved,Agent_11
+TKT_100197,Chat,Technical,Low,2024-10-22,2024-10-22,Resolved,Agent_19
+TKT_100198,Email,Billing,Medium,2024-10-27,2024-10-27,Resolved,Agent_3
+TKT_100199,Web,Billing,Low,2024-10-24,2024-11-03,Resolved,Agent_3
+TKT_100200,Web,Billing,Medium,2025-01-01,2025-01-02,Resolved,Agent_17
+TKT_100201,Web,General,Low,2024-09-13,2024-09-13,Resolved,Agent_9
+TKT_100202,Web,Billing,Low,2024-09-11,2024-09-17,Resolved,Agent_9
+TKT_100203,Phone,Technical,Low,2025-02-17,2025-02-21,Resolved,Agent_5
+TKT_100204,Phone,General,Medium,2025-01-02,2025-01-03,Resolved,Agent_5
+TKT_100205,Web,Billing,Medium,2024-10-07,2024-10-07,Resolved,Agent_5
+TKT_100206,Email,Technical,High,2024-10-15,2024-10-16,Resolved,Agent_3
+TKT_100207,Web,Account Access,Medium,2024-11-30,2024-12-05,Resolved,Agent_19
+TKT_100208,Web,Account Access,Medium,2024-10-29,2024-11-04,Resolved,Agent_11
+TKT_100209,Email,Technical,Low,2024-12-09,2024-12-11,Resolved,Agent_7
+TKT_100210,Email,General,Low,2024-10-01,2024-10-06,Resolved,Agent_11
+TKT_100211,Email,Billing,Low,2024-11-21,2024-11-26,Resolved,Agent_12
+TKT_100212,Phone,Billing,Medium,2024-10-16,2024-10-17,Resolved,Agent_8
+TKT_100213,Phone,Billing,Medium,2024-11-27,2024-12-02,Resolved,Agent_19
+TKT_100214,Chat,General,Medium,2024-11-02,2024-11-03,Resolved,Agent_5
+TKT_100215,Email,Billing,Low,2024-12-05,2024-12-09,Resolved,Agent_17
+TKT_100216,Web,Billing,Low,2024-12-27,2024-12-28,Resolved,Agent_18
+TKT_100217,Chat,Billing,Low,2024-09-29,2024-09-30,Resolved,Agent_20
+TKT_100218,Email,Account Access,High,2025-01-17,2025-01-22,Resolved,Agent_19
+TKT_100219,Phone,Billing,High,2025-02-21,2025-02-22,Resolved,Agent_3
+TKT_100220,Email,Technical,High,2024-12-28,2025-01-02,Resolved,Agent_2
+TKT_100221,Phone,Billing,Medium,2024-09-27,2024-10-03,Resolved,Agent_15
+TKT_100222,Web,Technical,Medium,2024-09-06,2024-09-10,Resolved,Agent_1
+TKT_100223,Chat,Account Access,Low,2025-02-09,,Escalated,Agent_12
+TKT_100224,Chat,General,Medium,2024-09-27,2024-10-07,Resolved,Agent_17
+TKT_100225,Email,Technical,High,2024-09-27,2024-10-02,Resolved,Agent_3
+TKT_100226,Email,Account Access,Medium,2024-09-24,2024-10-01,Resolved,Agent_14
+TKT_100227,Phone,Technical,High,2024-09-17,2024-09-19,Resolved,Agent_9
+TKT_100228,Chat,Account Access,Medium,2024-11-02,2024-11-05,Resolved,Agent_2
+TKT_100229,Web,Account Access,Medium,2024-11-11,2024-11-12,Resolved,Agent_18
+TKT_100230,Chat,General,Medium,2024-10-02,2024-10-05,Resolved,Agent_6
+TKT_100231,Email,Account Access,Low,2025-02-26,2025-02-26,Resolved,Agent_14
+TKT_100232,Web,General,Medium,2024-11-25,2024-11-25,Resolved,Agent_8
+TKT_100233,Web,Billing,Medium,2024-09-02,2024-09-04,Resolved,Agent_1
+TKT_100234,Email,Account Access,Medium,2024-12-12,2024-12-12,Resolved,Agent_14
+TKT_100235,Chat,Billing,Low,2024-12-15,2024-12-15,Resolved,Agent_11
+TKT_100236,Email,General,Low,2024-09-09,,Escalated,Agent_18
+TKT_100237,Web,Account Access,Low,2024-12-01,2024-12-05,Resolved,Agent_7
+TKT_100238,Phone,Account Access,Medium,2025-01-12,2025-01-17,Resolved,Agent_3
+TKT_100239,Phone,Technical,High,2024-09-14,,In Progress,Agent_12
+TKT_100240,Email,Technical,Low,2024-12-31,2025-01-01,Resolved,Agent_13
+TKT_100241,Web,Technical,Low,2024-10-02,2024-10-04,Resolved,Agent_18
+TKT_100242,Phone,Billing,Medium,2024-10-26,2024-11-06,Resolved,Agent_10
+TKT_100243,Phone,General,Medium,2024-12-06,2024-12-11,Resolved,Agent_20
+TKT_100244,Email,Account Access,Low,2025-01-04,,Escalated,Agent_19
+TKT_100245,Web,Technical,Medium,2024-12-26,2024-12-27,Resolved,Agent_15
+TKT_100246,Chat,Account Access,Medium,2025-02-17,2025-03-03,Resolved,Agent_12
+TKT_100247,Phone,Technical,Medium,2024-09-21,2024-09-24,Resolved,Agent_8
+TKT_100248,Web,Account Access,Medium,2024-10-12,2024-10-12,Resolved,Agent_5
+TKT_100249,Email,Billing,Medium,2024-11-01,2024-11-01,Resolved,Agent_14
+TKT_100250,Web,General,Medium,2025-01-08,2025-01-08,Resolved,Agent_2
+TKT_100251,Phone,Technical,High,2025-02-15,2025-02-17,Resolved,Agent_15
+TKT_100252,Phone,General,Low,2024-12-27,2024-12-27,Resolved,Agent_10
+TKT_100253,Web,Billing,High,2025-01-11,2025-01-11,Resolved,Agent_1
+TKT_100254,Email,Account Access,Medium,2024-09-28,2024-09-28,Resolved,Agent_5
+TKT_100255,Web,Technical,Low,2024-12-29,2025-01-02,Resolved,Agent_15
+TKT_100256,Chat,Account Access,Medium,2025-01-26,,In Progress,Agent_5
+TKT_100257,Web,Billing,High,2024-12-28,2024-12-28,Resolved,Agent_5
+TKT_100258,Email,Technical,Medium,2024-09-12,2024-09-12,Resolved,Agent_11
+TKT_100259,Chat,Billing,Medium,2024-09-29,2024-10-05,Resolved,Agent_15
+TKT_100260,Phone,Billing,Medium,2024-10-08,,Escalated,Agent_20
+TKT_100261,Web,Billing,Medium,2024-12-28,2024-12-28,Resolved,Agent_8
+TKT_100262,Email,Account Access,Medium,2024-11-25,2024-11-25,Resolved,Agent_11
+TKT_100263,Chat,Billing,Medium,2025-01-23,2025-01-28,Resolved,Agent_17
+TKT_100264,Web,General,Low,2024-10-16,2024-10-23,Resolved,Agent_16
+TKT_100265,Chat,Technical,Medium,2024-12-14,2024-12-14,Resolved,Agent_18
+TKT_100266,Web,Billing,Medium,2025-02-08,2025-02-09,Resolved,Agent_9
+TKT_100267,Email,Technical,Medium,2024-11-07,2024-11-10,Resolved,Agent_4
+TKT_100268,Chat,General,Low,2024-11-21,2024-11-27,Resolved,Agent_13
+TKT_100269,Phone,Technical,High,2024-10-24,2024-10-27,Resolved,Agent_1
+TKT_100270,Web,Billing,Medium,2025-01-27,2025-01-28,Resolved,Agent_1
+TKT_100271,Email,Account Access,Medium,2025-02-19,2025-02-19,Resolved,Agent_8
+TKT_100272,Chat,Billing,Medium,2025-02-21,2025-02-23,Resolved,Agent_8
+TKT_100273,Web,Billing,Medium,2024-12-26,2024-12-31,Resolved,Agent_5
+TKT_100274,Chat,Account Access,Medium,2024-10-14,2024-10-15,Resolved,Agent_6
+TKT_100275,Chat,Billing,Low,2025-02-18,2025-02-18,Resolved,Agent_16
+TKT_100276,Phone,Technical,Low,2024-09-25,2024-09-28,Resolved,Agent_4
+TKT_100277,Email,Technical,Medium,2024-10-04,2024-10-04,Resolved,Agent_20
+TKT_100278,Chat,General,Low,2025-02-03,2025-02-05,Resolved,Agent_4
+TKT_100279,Chat,Billing,Medium,2024-11-16,2024-11-17,Resolved,Agent_11
+TKT_100280,Phone,General,Low,2024-10-09,2024-10-11,Resolved,Agent_17
+TKT_100281,Chat,Technical,Medium,2024-10-06,,Pending,Agent_1
+TKT_100282,Web,Account Access,Medium,2024-10-17,2024-10-26,Resolved,Agent_9
+TKT_100283,Chat,Technical,Medium,2024-12-31,2025-01-01,Resolved,Agent_16
+TKT_100284,Email,Billing,Medium,2024-11-07,2024-11-07,Resolved,Agent_7
+TKT_100285,Chat,Technical,High,2025-02-11,2025-02-11,Resolved,Agent_5
+TKT_100286,Phone,Technical,Low,2025-02-08,,Escalated,Agent_15
+TKT_100287,Phone,Account Access,Medium,2024-09-11,2024-09-11,Resolved,Agent_2
+TKT_100288,Web,General,Medium,2025-01-24,2025-01-25,Resolved,Agent_7
+TKT_100289,Email,Technical,High,2024-09-24,2024-09-24,Resolved,Agent_6
+TKT_100290,Chat,Account Access,Medium,2024-10-06,2024-10-06,Resolved,Agent_3
+TKT_100291,Email,Account Access,Medium,2024-11-09,,Escalated,Agent_2
+TKT_100292,Web,Technical,High,2025-02-07,2025-02-09,Resolved,Agent_18
+TKT_100293,Phone,Billing,Medium,2024-10-28,2024-10-29,Resolved,Agent_12
+TKT_100294,Chat,Billing,Medium,2024-12-07,2024-12-08,Resolved,Agent_12
+TKT_100295,Chat,Account Access,Low,2024-10-01,2024-10-05,Resolved,Agent_10
+TKT_100296,Chat,Billing,Medium,2025-01-22,2025-01-22,Resolved,Agent_8
+TKT_100297,Web,General,Low,2024-09-23,2024-09-24,Resolved,Agent_5
+TKT_100298,Web,Account Access,Low,2024-11-04,2024-11-09,Resolved,Agent_6
+TKT_100299,Chat,Billing,Low,2024-10-02,2024-10-02,Resolved,Agent_6
+TKT_100300,Web,Billing,High,2024-10-06,2024-10-07,Resolved,Agent_2
+TKT_100301,Email,Technical,Medium,2024-11-14,2024-11-19,Resolved,Agent_4
+TKT_100302,Chat,General,High,2025-01-28,2025-01-30,Resolved,Agent_5
+TKT_100303,Web,Billing,Medium,2024-10-19,2024-10-19,Resolved,Agent_3
+TKT_100304,Chat,Account Access,Medium,2025-01-12,2025-01-12,Resolved,Agent_14
+TKT_100305,Email,General,Medium,2024-11-05,2024-11-05,Resolved,Agent_14
+TKT_100306,Web,Billing,Medium,2024-09-25,2024-09-27,Resolved,Agent_1
+TKT_100307,Web,General,Medium,2024-12-19,2024-12-25,Resolved,Agent_20
+TKT_100308,Phone,General,Medium,2024-09-25,2024-09-28,Resolved,Agent_2
+TKT_100309,Web,Technical,Medium,2025-02-20,2025-02-22,Resolved,Agent_13
+TKT_100310,Phone,Billing,Low,2024-10-30,,In Progress,Agent_2
+TKT_100311,Web,General,High,2024-09-05,2024-09-09,Resolved,Agent_2
+TKT_100312,Chat,General,Low,2025-02-06,2025-02-09,Resolved,Agent_19
+TKT_100313,Email,General,High,2025-02-03,2025-02-04,Resolved,Agent_16
+TKT_100314,Web,Account Access,Medium,2024-09-04,2024-09-21,Resolved,Agent_7
+TKT_100315,Web,Account Access,High,2025-02-11,2025-02-13,Resolved,Agent_5
+TKT_100316,Web,General,Medium,2024-09-07,2024-09-09,Resolved,Agent_7
+TKT_100317,Email,Technical,Low,2025-01-08,2025-01-08,Resolved,Agent_6
+TKT_100318,Phone,Technical,Low,2024-10-28,2024-10-28,Resolved,Agent_13
+TKT_100319,Email,Billing,Medium,2024-11-21,,Escalated,Agent_3
+TKT_100320,Email,Account Access,Medium,2025-01-27,,Pending,Agent_4
+TKT_100321,Chat,Account Access,Medium,2024-11-21,2024-11-22,Resolved,Agent_20
+TKT_100322,Email,Billing,Medium,2024-10-12,2024-10-18,Resolved,Agent_17
+TKT_100323,Web,Technical,Low,2025-01-08,2025-01-09,Resolved,Agent_10
+TKT_100324,Chat,Billing,Medium,2024-09-21,2024-09-26,Resolved,Agent_8
+TKT_100325,Phone,Billing,Medium,2024-11-18,2024-11-24,Resolved,Agent_13
+TKT_100326,Phone,Technical,Low,2024-11-26,,Escalated,Agent_11
+TKT_100327,Email,Technical,Low,2025-01-30,2025-01-30,Resolved,Agent_8
+TKT_100328,Chat,General,Medium,2025-01-17,2025-01-27,Resolved,Agent_19
+TKT_100329,Web,General,High,2024-09-05,2024-09-07,Resolved,Agent_8
+TKT_100330,Web,Billing,High,2024-12-21,2024-12-31,Resolved,Agent_8
+TKT_100331,Email,Technical,Medium,2025-02-25,2025-02-25,Resolved,Agent_4
+TKT_100332,Chat,Technical,Medium,2024-12-31,2025-01-01,Resolved,Agent_10
+TKT_100333,Email,Account Access,Medium,2024-09-02,2024-09-04,Resolved,Agent_16
+TKT_100334,Web,Account Access,Medium,2024-09-11,2024-09-11,Resolved,Agent_18
+TKT_100335,Phone,Technical,Medium,2024-10-29,2024-10-31,Resolved,Agent_18
+TKT_100336,Chat,Account Access,Medium,2025-02-19,2025-02-19,Resolved,Agent_3
+TKT_100337,Chat,Account Access,Medium,2024-10-09,2024-10-14,Resolved,Agent_18
+TKT_100338,Email,Technical,Medium,2025-01-04,2025-01-09,Resolved,Agent_7
+TKT_100339,Phone,Account Access,High,2024-11-25,2024-11-29,Resolved,Agent_13
+TKT_100340,Chat,Billing,High,2025-02-27,2025-03-04,Resolved,Agent_19
+TKT_100341,Phone,Account Access,Medium,2024-09-22,2024-09-24,Resolved,Agent_3
+TKT_100342,Phone,Billing,Medium,2025-02-04,2025-02-04,Resolved,Agent_5
+TKT_100343,Phone,Account Access,Medium,2025-01-22,2025-01-27,Resolved,Agent_3
+TKT_100344,Email,Account Access,High,2024-11-03,2024-11-07,Resolved,Agent_10
+TKT_100345,Email,Account Access,Low,2025-02-02,2025-02-05,Resolved,Agent_9
+TKT_100346,Web,Account Access,High,2024-11-29,2024-12-04,Resolved,Agent_14
+TKT_100347,Chat,Technical,Low,2024-12-30,2025-01-02,Resolved,Agent_6
+TKT_100348,Web,General,Low,2025-01-10,2025-01-11,Resolved,Agent_10
+TKT_100349,Web,Billing,Medium,2024-10-07,,In Progress,Agent_10
+TKT_100350,Chat,Billing,Medium,2024-10-27,2024-10-28,Resolved,Agent_7
+TKT_100351,Web,Technical,Medium,2024-11-19,2024-11-19,Resolved,Agent_2
+TKT_100352,Chat,Billing,Medium,2024-10-30,2024-10-31,Resolved,Agent_19
+TKT_100353,Chat,Account Access,Medium,2024-09-30,2024-10-12,Resolved,Agent_4
+TKT_100354,Web,General,Medium,2024-12-03,2024-12-04,Resolved,Agent_18
+TKT_100355,Phone,Account Access,High,2024-10-17,2024-11-05,Resolved,Agent_13
+TKT_100356,Email,Technical,Medium,2025-01-26,2025-01-30,Resolved,Agent_6
+TKT_100357,Phone,Billing,Low,2024-12-12,2024-12-14,Resolved,Agent_20
+TKT_100358,Email,Billing,Medium,2024-12-16,2024-12-16,Resolved,Agent_13
+TKT_100359,Chat,Technical,Low,2024-10-21,2024-10-29,Resolved,Agent_14
+TKT_100360,Chat,General,Medium,2024-11-03,2024-11-03,Resolved,Agent_10
+TKT_100361,Web,Technical,Low,2024-11-29,2024-11-29,Resolved,Agent_18
+TKT_100362,Phone,Technical,Low,2024-12-09,2024-12-13,Resolved,Agent_12
+TKT_100363,Web,Technical,Low,2025-01-30,,Pending,Agent_7
+TKT_100364,Phone,General,Low,2024-12-29,2025-01-09,Resolved,Agent_10
+TKT_100365,Email,Technical,Medium,2024-11-12,,Pending,Agent_11
+TKT_100366,Email,Technical,Medium,2025-02-08,,In Progress,Agent_18
+TKT_100367,Web,Account Access,Medium,2025-01-21,2025-01-27,Resolved,Agent_12
+TKT_100368,Web,Account Access,Medium,2025-02-12,2025-02-23,Resolved,Agent_3
+TKT_100369,Phone,Billing,High,2024-10-19,2024-10-20,Resolved,Agent_12
+TKT_100370,Email,Technical,High,2025-02-25,2025-02-28,Resolved,Agent_7
+TKT_100371,Chat,General,Medium,2025-01-30,2025-01-30,Resolved,Agent_11
+TKT_100372,Email,General,Low,2024-09-17,2024-09-19,Resolved,Agent_2
+TKT_100373,Email,Billing,High,2024-09-02,2024-09-05,Resolved,Agent_10
+TKT_100374,Chat,Account Access,Medium,2025-01-03,2025-01-07,Resolved,Agent_15
+TKT_100375,Web,Billing,Low,2025-01-16,2025-01-27,Resolved,Agent_17
+TKT_100376,Web,Account Access,Medium,2024-09-20,2024-09-22,Resolved,Agent_20
+TKT_100377,Chat,General,Medium,2024-11-18,2024-11-24,Resolved,Agent_9
+TKT_100378,Web,Billing,Low,2024-12-22,,Pending,Agent_3
+TKT_100379,Web,Account Access,Medium,2024-09-06,2024-09-07,Resolved,Agent_18
+TKT_100380,Phone,General,Medium,2024-09-11,2024-09-11,Resolved,Agent_9
+TKT_100381,Web,Technical,Medium,2024-10-25,2024-10-28,Resolved,Agent_14
+TKT_100382,Web,Billing,High,2024-09-12,2024-09-12,Resolved,Agent_13
+TKT_100383,Phone,General,Medium,2024-10-10,2024-10-12,Resolved,Agent_8
+TKT_100384,Email,Account Access,Medium,2024-12-16,2024-12-17,Resolved,Agent_14
+TKT_100385,Chat,General,Low,2024-09-12,2024-09-16,Resolved,Agent_1
+TKT_100386,Phone,Technical,Low,2024-09-21,2024-09-24,Resolved,Agent_6
+TKT_100387,Chat,General,Medium,2025-01-06,2025-01-06,Resolved,Agent_1
+TKT_100388,Web,Technical,Low,2025-02-01,2025-02-01,Resolved,Agent_9
+TKT_100389,Web,Billing,Medium,2024-10-30,2024-10-31,Resolved,Agent_15
+TKT_100390,Web,Account Access,Medium,2025-01-09,2025-01-15,Resolved,Agent_16
+TKT_100391,Email,Account Access,Low,2025-02-08,2025-02-08,Resolved,Agent_9
+TKT_100392,Phone,General,High,2024-11-14,2024-11-17,Resolved,Agent_17
+TKT_100393,Email,Account Access,Medium,2024-09-15,,Escalated,Agent_16
+TKT_100394,Chat,Billing,Medium,2025-02-03,2025-02-06,Resolved,Agent_20
+TKT_100395,Web,Technical,Low,2024-11-26,2024-11-26,Resolved,Agent_15
+TKT_100396,Chat,General,Medium,2024-10-27,2024-10-28,Resolved,Agent_14
+TKT_100397,Web,Account Access,Medium,2025-01-15,2025-01-19,Resolved,Agent_18
+TKT_100398,Phone,Technical,Low,2025-01-29,2025-01-29,Resolved,Agent_14
+TKT_100399,Chat,Billing,Low,2024-11-11,2024-11-11,Resolved,Agent_14
+TKT_100400,Phone,Account Access,High,2025-02-15,2025-02-19,Resolved,Agent_16
+TKT_100401,Email,General,Low,2025-01-09,2025-01-13,Resolved,Agent_20
+TKT_100402,Email,General,Medium,2024-11-12,2024-11-13,Resolved,Agent_19
+TKT_100403,Phone,Account Access,High,2025-02-13,,Escalated,Agent_9
+TKT_100404,Web,Technical,Medium,2024-11-28,,Escalated,Agent_14
+TKT_100405,Chat,Technical,High,2024-11-07,2024-11-13,Resolved,Agent_14
+TKT_100406,Chat,Technical,Low,2024-09-16,2024-09-16,Resolved,Agent_12
+TKT_100407,Phone,General,Low,2024-10-20,2024-10-22,Resolved,Agent_16
+TKT_100408,Web,Technical,Medium,2025-02-08,2025-02-12,Resolved,Agent_9
+TKT_100409,Web,General,Low,2024-11-04,2024-11-04,Resolved,Agent_8
+TKT_100410,Web,Billing,Medium,2024-10-17,2024-10-17,Resolved,Agent_20
+TKT_100411,Email,Billing,Medium,2024-10-21,2024-10-22,Resolved,Agent_19
+TKT_100412,Web,General,Medium,2024-09-28,2024-09-28,Resolved,Agent_3
+TKT_100413,Chat,Account Access,Low,2025-02-09,2025-02-10,Resolved,Agent_8
+TKT_100414,Phone,Billing,High,2025-01-31,,Pending,Agent_8
+TKT_100415,Phone,Account Access,Medium,2024-12-02,2024-12-03,Resolved,Agent_14
+TKT_100416,Phone,Account Access,Medium,2024-10-26,2024-10-28,Resolved,Agent_17
+TKT_100417,Chat,Technical,Medium,2024-10-13,2024-10-18,Resolved,Agent_7
+TKT_100418,Email,Technical,Medium,2024-11-01,,Escalated,Agent_9
+TKT_100419,Web,Technical,Medium,2024-09-17,2024-09-17,Resolved,Agent_7
+TKT_100420,Phone,Technical,High,2024-09-11,2024-09-11,Resolved,Agent_14
+TKT_100421,Email,Technical,Medium,2024-09-19,2024-09-20,Resolved,Agent_13
+TKT_100422,Web,Technical,Medium,2024-10-15,2024-10-18,Resolved,Agent_5
+TKT_100423,Web,Technical,Medium,2024-11-26,2024-11-29,Resolved,Agent_17
+TKT_100424,Phone,Account Access,Medium,2024-11-07,2024-11-08,Resolved,Agent_18
+TKT_100425,Email,General,Medium,2025-02-15,,Pending,Agent_19
+TKT_100426,Phone,Technical,Low,2024-09-29,2024-10-02,Resolved,Agent_11
+TKT_100427,Email,Billing,Medium,2024-10-21,2024-10-28,Resolved,Agent_3
+TKT_100428,Web,Billing,High,2024-09-02,2024-09-04,Resolved,Agent_8
+TKT_100429,Chat,Technical,Medium,2024-09-12,2024-09-13,Resolved,Agent_13
+TKT_100430,Phone,Billing,Low,2024-11-01,2024-11-03,Resolved,Agent_6
+TKT_100431,Web,Technical,Medium,2025-01-24,,Escalated,Agent_6
+TKT_100432,Chat,Billing,Medium,2024-12-07,2024-12-08,Resolved,Agent_12
+TKT_100433,Phone,Technical,Medium,2024-12-13,,In Progress,Agent_4
+TKT_100434,Web,Technical,Medium,2024-10-04,2024-10-04,Resolved,Agent_4
+TKT_100435,Email,Account Access,Low,2024-10-17,,Pending,Agent_3
+TKT_100436,Phone,General,High,2025-01-04,2025-01-06,Resolved,Agent_5
+TKT_100437,Web,Billing,Low,2024-11-04,2024-11-04,Resolved,Agent_18
+TKT_100438,Email,Billing,High,2024-11-06,2024-11-15,Resolved,Agent_14
+TKT_100439,Chat,General,Medium,2024-10-21,2024-10-21,Resolved,Agent_15
+TKT_100440,Email,Billing,High,2024-12-31,2024-12-31,Resolved,Agent_5
+TKT_100441,Phone,General,Medium,2024-09-18,2024-09-23,Resolved,Agent_13
+TKT_100442,Phone,General,High,2025-01-23,2025-01-24,Resolved,Agent_4
+TKT_100443,Email,Technical,Medium,2025-01-19,2025-01-21,Resolved,Agent_19
+TKT_100444,Phone,Billing,Low,2024-12-18,,Pending,Agent_12
+TKT_100445,Email,Account Access,Low,2024-11-07,2024-11-08,Resolved,Agent_3
+TKT_100446,Email,General,Low,2025-02-26,2025-03-02,Resolved,Agent_18
+TKT_100447,Web,Billing,Medium,2024-09-19,2024-09-19,Resolved,Agent_5
+TKT_100448,Email,Technical,Medium,2025-01-25,2025-01-25,Resolved,Agent_2
+TKT_100449,Phone,Billing,Medium,2025-01-18,2025-01-18,Resolved,Agent_7
+TKT_100450,Web,Technical,Low,2024-09-20,,Pending,Agent_17
+TKT_100451,Phone,General,Medium,2024-12-17,2024-12-18,Resolved,Agent_4
+TKT_100452,Chat,General,Medium,2025-01-29,2025-01-30,Resolved,Agent_19
+TKT_100453,Chat,Technical,Low,2024-11-21,2024-11-22,Resolved,Agent_15
+TKT_100454,Web,General,Low,2024-10-18,,Escalated,Agent_17
+TKT_100455,Email,Technical,Medium,2024-11-11,2024-11-11,Resolved,Agent_5
+TKT_100456,Email,General,Medium,2024-10-01,2024-10-04,Resolved,Agent_11
+TKT_100457,Phone,Billing,Medium,2024-11-03,2024-11-04,Resolved,Agent_2
+TKT_100458,Email,Account Access,Low,2024-09-30,,In Progress,Agent_18
+TKT_100459,Web,Billing,Low,2024-11-10,,Escalated,Agent_5
+TKT_100460,Email,General,High,2025-01-14,2025-01-18,Resolved,Agent_1
+TKT_100461,Web,General,Medium,2024-12-13,2024-12-14,Resolved,Agent_14
+TKT_100462,Web,Account Access,Medium,2024-12-11,2024-12-12,Resolved,Agent_14
+TKT_100463,Web,Technical,Low,2024-10-04,2024-10-04,Resolved,Agent_6
+TKT_100464,Web,Billing,High,2024-12-28,2025-01-02,Resolved,Agent_6
+TKT_100465,Web,Billing,High,2024-09-13,2024-09-16,Resolved,Agent_2
+TKT_100466,Phone,General,Low,2024-12-29,2024-12-30,Resolved,Agent_7
+TKT_100467,Email,General,Medium,2025-02-05,2025-02-16,Resolved,Agent_19
+TKT_100468,Email,Technical,High,2024-11-20,2024-11-23,Resolved,Agent_10
+TKT_100469,Chat,Account Access,Medium,2024-10-22,2024-10-25,Resolved,Agent_18
+TKT_100470,Web,Billing,Low,2025-01-30,2025-01-31,Resolved,Agent_4
+TKT_100471,Email,General,Low,2024-09-12,2024-09-14,Resolved,Agent_18
+TKT_100472,Web,Billing,Low,2024-12-14,2024-12-18,Resolved,Agent_17
+TKT_100473,Chat,Technical,High,2024-12-05,2024-12-07,Resolved,Agent_18
+TKT_100474,Web,Technical,Medium,2025-02-19,2025-02-23,Resolved,Agent_11
+TKT_100475,Email,Technical,High,2025-01-15,2025-01-20,Resolved,Agent_4
+TKT_100476,Chat,General,Low,2024-11-22,2024-11-29,Resolved,Agent_12
+TKT_100477,Phone,Technical,High,2025-02-04,2025-02-05,Resolved,Agent_10
+TKT_100478,Phone,General,Medium,2024-09-13,2024-09-13,Resolved,Agent_11
+TKT_100479,Email,Account Access,Low,2024-12-03,2024-12-03,Resolved,Agent_19
+TKT_100480,Web,Technical,High,2024-12-10,2024-12-12,Resolved,Agent_9
+TKT_100481,Phone,General,High,2024-12-14,2024-12-14,Resolved,Agent_18
+TKT_100482,Email,Technical,Medium,2025-01-08,2025-01-08,Resolved,Agent_11
+TKT_100483,Chat,Account Access,Medium,2024-12-09,2024-12-12,Resolved,Agent_2
+TKT_100484,Email,Account Access,Low,2024-10-06,2024-10-10,Resolved,Agent_12
+TKT_100485,Web,Technical,Medium,2024-10-24,2024-10-24,Resolved,Agent_11
+TKT_100486,Phone,Technical,High,2024-12-27,2024-12-31,Resolved,Agent_15
+TKT_100487,Email,Billing,High,2025-02-12,2025-02-19,Resolved,Agent_17
+TKT_100488,Web,Billing,Medium,2025-01-31,2025-02-03,Resolved,Agent_12
+TKT_100489,Chat,Account Access,High,2025-02-18,,Pending,Agent_6
+TKT_100490,Email,Account Access,Medium,2024-09-16,2024-09-20,Resolved,Agent_12
+TKT_100491,Phone,Billing,High,2025-02-22,2025-02-26,Resolved,Agent_6
+TKT_100492,Phone,Account Access,Medium,2025-01-31,2025-02-04,Resolved,Agent_20
+TKT_100493,Email,Billing,Medium,2024-10-13,2024-10-16,Resolved,Agent_4
+TKT_100494,Phone,General,High,2024-11-14,2024-11-19,Resolved,Agent_8
+TKT_100495,Email,Billing,High,2024-12-13,2024-12-13,Resolved,Agent_2
+TKT_100496,Chat,Account Access,Medium,2025-01-02,,Pending,Agent_8
+TKT_100497,Email,General,Low,2024-12-05,2024-12-08,Resolved,Agent_9
+TKT_100498,Email,General,Low,2024-12-15,2024-12-21,Resolved,Agent_13
+TKT_100499,Phone,General,Low,2024-12-13,2024-12-20,Resolved,Agent_11
+TKT_100500,Phone,Technical,Medium,2024-10-22,2024-10-23,Resolved,Agent_15
+TKT_100501,Phone,Technical,Medium,2024-09-26,,Escalated,Agent_11
+TKT_100502,Web,Billing,Medium,2025-02-13,2025-02-15,Resolved,Agent_14
+TKT_100503,Email,Billing,Medium,2024-11-25,2024-11-29,Resolved,Agent_14
+TKT_100504,Email,General,High,2024-09-06,2024-09-07,Resolved,Agent_11
+TKT_100505,Web,Technical,High,2024-11-14,2024-11-18,Resolved,Agent_12
+TKT_100506,Chat,Technical,High,2024-12-08,2024-12-10,Resolved,Agent_12
+TKT_100507,Phone,Technical,Medium,2024-09-19,2024-09-19,Resolved,Agent_18
+TKT_100508,Chat,Billing,High,2024-12-24,2024-12-27,Resolved,Agent_17
+TKT_100509,Phone,General,Medium,2025-02-09,2025-02-13,Resolved,Agent_8
+TKT_100510,Chat,Account Access,Medium,2024-12-03,2024-12-06,Resolved,Agent_20
+TKT_100511,Web,Billing,Low,2024-11-25,2024-11-27,Resolved,Agent_4
+TKT_100512,Email,Account Access,Low,2025-02-17,,Pending,Agent_8
+TKT_100513,Chat,General,Low,2024-11-30,2024-11-30,Resolved,Agent_3
+TKT_100514,Web,Technical,High,2024-09-09,2024-09-09,Resolved,Agent_2
+TKT_100515,Phone,Technical,High,2024-12-02,2024-12-03,Resolved,Agent_20
+TKT_100516,Email,Billing,Low,2024-12-22,2024-12-23,Resolved,Agent_17
+TKT_100517,Chat,Technical,Medium,2024-11-30,2024-12-01,Resolved,Agent_1
+TKT_100518,Chat,Billing,Low,2024-12-25,2024-12-25,Resolved,Agent_9
+TKT_100519,Email,Technical,High,2025-01-23,2025-01-23,Resolved,Agent_9
+TKT_100520,Email,Account Access,Medium,2025-01-17,2025-01-19,Resolved,Agent_12
+TKT_100521,Chat,General,Medium,2024-10-17,2024-10-24,Resolved,Agent_5
+TKT_100522,Email,Billing,Low,2024-12-15,2024-12-21,Resolved,Agent_13
+TKT_100523,Email,Account Access,High,2025-01-25,,Pending,Agent_4
+TKT_100524,Chat,General,Low,2025-01-07,2025-01-08,Resolved,Agent_8
+TKT_100525,Phone,Technical,Low,2024-09-24,2024-09-25,Resolved,Agent_2
+TKT_100526,Email,Technical,Medium,2024-12-25,,Pending,Agent_9
+TKT_100527,Email,Technical,Medium,2024-10-24,2024-10-25,Resolved,Agent_8
+TKT_100528,Phone,General,Medium,2024-10-31,2024-11-01,Resolved,Agent_15
+TKT_100529,Web,Account Access,Medium,2025-02-11,2025-02-15,Resolved,Agent_18
+TKT_100530,Chat,Billing,Low,2024-12-21,2024-12-26,Resolved,Agent_16
+TKT_100531,Phone,General,Low,2024-10-09,2024-10-09,Resolved,Agent_8
+TKT_100532,Email,Account Access,High,2024-10-01,,Pending,Agent_9
+TKT_100533,Email,General,Medium,2024-09-17,2024-09-19,Resolved,Agent_5
+TKT_100534,Chat,Technical,Medium,2024-10-21,2024-10-22,Resolved,Agent_2
+TKT_100535,Web,General,Low,2025-01-01,2025-01-05,Resolved,Agent_7
+TKT_100536,Email,Billing,Medium,2025-02-09,2025-02-13,Resolved,Agent_13
+TKT_100537,Chat,Billing,Medium,2024-09-03,2024-09-03,Resolved,Agent_16
+TKT_100538,Phone,Technical,Low,2024-11-04,2024-11-05,Resolved,Agent_4
+TKT_100539,Web,Account Access,Low,2025-01-24,2025-01-24,Resolved,Agent_3
+TKT_100540,Web,Billing,Low,2024-09-14,,In Progress,Agent_19
+TKT_100541,Chat,Technical,Medium,2025-02-15,2025-02-15,Resolved,Agent_16
+TKT_100542,Chat,Account Access,High,2024-11-03,2024-11-06,Resolved,Agent_16
+TKT_100543,Phone,General,Low,2025-01-26,2025-01-29,Resolved,Agent_2
+TKT_100544,Web,Billing,Medium,2024-11-11,2024-11-11,Resolved,Agent_3
+TKT_100545,Chat,Account Access,Low,2025-02-26,2025-02-26,Resolved,Agent_1
+TKT_100546,Email,Account Access,Medium,2024-11-14,2024-11-14,Resolved,Agent_6
+TKT_100547,Email,Technical,Low,2024-11-17,2024-11-19,Resolved,Agent_1
+TKT_100548,Chat,Billing,Medium,2024-09-19,,Pending,Agent_15
+TKT_100549,Phone,Account Access,Low,2024-11-23,2024-11-26,Resolved,Agent_14
+TKT_100550,Phone,General,Low,2025-01-26,2025-01-26,Resolved,Agent_10
+TKT_100551,Email,Technical,High,2024-11-01,2024-11-03,Resolved,Agent_6
+TKT_100552,Chat,Technical,Low,2025-02-16,2025-02-20,Resolved,Agent_9
+TKT_100553,Email,General,Medium,2024-11-10,2024-11-10,Resolved,Agent_3
+TKT_100554,Web,Billing,Medium,2024-11-13,2024-11-16,Resolved,Agent_7
+TKT_100555,Phone,Technical,Low,2024-09-20,,In Progress,Agent_20
+TKT_100556,Phone,General,Medium,2024-10-23,2024-10-23,Resolved,Agent_15
+TKT_100557,Phone,Billing,Medium,2024-12-05,2024-12-07,Resolved,Agent_4
+TKT_100558,Phone,Account Access,High,2024-11-04,2024-11-04,Resolved,Agent_15
+TKT_100559,Phone,Billing,Low,2025-01-27,2025-01-27,Resolved,Agent_2
+TKT_100560,Chat,Technical,High,2024-12-22,2024-12-23,Resolved,Agent_9
+TKT_100561,Web,General,Low,2025-02-11,2025-02-14,Resolved,Agent_6
+TKT_100562,Web,Billing,High,2024-12-23,2024-12-27,Resolved,Agent_20
+TKT_100563,Phone,Technical,Low,2025-02-03,2025-02-08,Resolved,Agent_9
+TKT_100564,Phone,Billing,Low,2024-12-01,2024-12-03,Resolved,Agent_10
+TKT_100565,Chat,Account Access,Medium,2024-10-09,2024-10-09,Resolved,Agent_20
+TKT_100566,Phone,Account Access,Medium,2024-12-19,2024-12-19,Resolved,Agent_8
+TKT_100567,Phone,Technical,Medium,2024-11-01,2024-11-03,Resolved,Agent_18
+TKT_100568,Chat,Account Access,Medium,2024-11-21,2024-11-25,Resolved,Agent_13
+TKT_100569,Web,Billing,Medium,2024-12-11,2024-12-15,Resolved,Agent_14
+TKT_100570,Web,General,Low,2024-11-12,2024-11-12,Resolved,Agent_7
+TKT_100571,Email,Account Access,Medium,2024-10-07,2024-10-10,Resolved,Agent_2
+TKT_100572,Email,Billing,Medium,2025-02-15,2025-02-16,Resolved,Agent_5
+TKT_100573,Phone,Account Access,Medium,2024-11-02,2024-11-03,Resolved,Agent_13
+TKT_100574,Web,Billing,Medium,2024-10-31,,In Progress,Agent_1
+TKT_100575,Phone,General,Medium,2024-12-30,2024-12-30,Resolved,Agent_16
+TKT_100576,Email,Technical,Low,2024-12-01,2024-12-04,Resolved,Agent_13
+TKT_100577,Phone,Account Access,Medium,2024-11-08,2024-11-08,Resolved,Agent_10
+TKT_100578,Phone,Technical,Medium,2024-11-02,2024-11-02,Resolved,Agent_13
+TKT_100579,Phone,Billing,Low,2024-12-05,2024-12-09,Resolved,Agent_17
+TKT_100580,Chat,Billing,Low,2024-12-06,2024-12-07,Resolved,Agent_6
+TKT_100581,Phone,Technical,Medium,2025-01-28,2025-01-30,Resolved,Agent_17
+TKT_100582,Web,General,Medium,2025-02-05,2025-02-06,Resolved,Agent_15
+TKT_100583,Email,General,High,2024-10-16,2024-10-17,Resolved,Agent_13
+TKT_100584,Email,General,High,2025-01-12,2025-01-16,Resolved,Agent_1
+TKT_100585,Chat,Technical,Medium,2025-02-07,2025-02-13,Resolved,Agent_10
+TKT_100586,Phone,Account Access,Medium,2025-02-09,2025-02-11,Resolved,Agent_14
+TKT_100587,Phone,General,Medium,2025-01-05,2025-01-05,Resolved,Agent_8
+TKT_100588,Phone,Technical,Medium,2024-10-03,2024-10-04,Resolved,Agent_10
+TKT_100589,Web,General,Low,2025-02-04,2025-02-06,Resolved,Agent_1
+TKT_100590,Chat,Technical,Medium,2024-10-18,2024-10-20,Resolved,Agent_7
+TKT_100591,Web,Account Access,Medium,2024-11-10,2024-11-10,Resolved,Agent_3
+TKT_100592,Phone,Billing,Medium,2024-10-23,2024-10-27,Resolved,Agent_11
+TKT_100593,Email,General,Medium,2024-09-29,2024-10-01,Resolved,Agent_16
+TKT_100594,Email,Billing,Low,2024-12-29,2025-01-02,Resolved,Agent_16
+TKT_100595,Email,General,High,2024-12-27,2024-12-31,Resolved,Agent_19
+TKT_100596,Phone,Billing,Medium,2024-09-15,,Pending,Agent_8
+TKT_100597,Chat,General,Medium,2025-01-14,2025-01-20,Resolved,Agent_8
+TKT_100598,Web,General,High,2024-10-27,2024-11-08,Resolved,Agent_13
+TKT_100599,Email,Billing,Medium,2025-01-01,2025-01-01,Resolved,Agent_3
+TKT_100600,Chat,Billing,Medium,2024-10-29,2024-11-01,Resolved,Agent_20
+TKT_100601,Phone,Billing,Medium,2024-12-05,2024-12-05,Resolved,Agent_17
+TKT_100602,Email,Account Access,Medium,2024-10-31,,Escalated,Agent_5
+TKT_100603,Web,Technical,Medium,2024-10-28,,In Progress,Agent_12
+TKT_100604,Email,General,High,2024-09-09,2024-09-10,Resolved,Agent_17
+TKT_100605,Web,General,Medium,2024-09-21,2024-09-24,Resolved,Agent_5
+TKT_100606,Email,Billing,Low,2024-11-15,2024-11-16,Resolved,Agent_16
+TKT_100607,Web,Account Access,Medium,2024-10-10,2024-10-12,Resolved,Agent_12
+TKT_100608,Chat,Account Access,Low,2024-11-19,2024-11-19,Resolved,Agent_12
+TKT_100609,Phone,Billing,Medium,2024-11-01,2024-11-05,Resolved,Agent_6
+TKT_100610,Email,General,Medium,2024-10-31,2024-11-01,Resolved,Agent_14
+TKT_100611,Email,General,Medium,2024-09-22,2024-09-22,Resolved,Agent_15
+TKT_100612,Web,Account Access,Low,2024-11-09,2024-11-13,Resolved,Agent_20
+TKT_100613,Web,Technical,Medium,2024-09-01,2024-09-02,Resolved,Agent_3
+TKT_100614,Phone,Technical,Medium,2024-10-16,2024-10-19,Resolved,Agent_14
+TKT_100615,Phone,Account Access,Medium,2025-02-04,2025-02-05,Resolved,Agent_18
+TKT_100616,Chat,Account Access,Medium,2025-01-03,,In Progress,Agent_10
+TKT_100617,Phone,Technical,Medium,2024-12-04,2024-12-04,Resolved,Agent_17
+TKT_100618,Phone,Account Access,Low,2025-01-27,2025-01-31,Resolved,Agent_16
+TKT_100619,Email,General,High,2025-02-06,2025-02-10,Resolved,Agent_4
+TKT_100620,Web,General,Low,2024-12-08,2024-12-16,Resolved,Agent_10
+TKT_100621,Phone,Technical,High,2024-09-29,2024-10-03,Resolved,Agent_10
+TKT_100622,Email,General,Medium,2024-10-18,2024-10-20,Resolved,Agent_14
+TKT_100623,Chat,General,Medium,2024-10-29,2024-10-30,Resolved,Agent_18
+TKT_100624,Web,Billing,Low,2025-02-13,,In Progress,Agent_18
+TKT_100625,Phone,General,Low,2024-12-29,2025-01-06,Resolved,Agent_5
+TKT_100626,Phone,Technical,Medium,2024-11-28,2024-12-01,Resolved,Agent_19
+TKT_100627,Email,Account Access,Low,2025-01-21,,Pending,Agent_15
+TKT_100628,Email,Technical,Low,2025-02-25,2025-02-25,Resolved,Agent_11
+TKT_100629,Phone,Account Access,Medium,2024-09-20,2024-09-29,Resolved,Agent_13
+TKT_100630,Email,Billing,Medium,2024-11-05,2024-11-12,Resolved,Agent_8
+TKT_100631,Web,Account Access,Medium,2025-01-26,2025-01-26,Resolved,Agent_17
+TKT_100632,Web,Account Access,Low,2025-01-22,2025-01-25,Resolved,Agent_16
+TKT_100633,Email,General,Low,2025-02-23,2025-02-24,Resolved,Agent_9
+TKT_100634,Phone,General,High,2024-12-28,2024-12-30,Resolved,Agent_14
+TKT_100635,Web,Account Access,High,2024-12-28,2024-12-29,Resolved,Agent_10
+TKT_100636,Chat,Technical,High,2024-09-11,2024-09-15,Resolved,Agent_2
+TKT_100637,Phone,Account Access,High,2025-01-16,2025-01-16,Resolved,Agent_20
+TKT_100638,Phone,Technical,Low,2024-10-10,,In Progress,Agent_8
+TKT_100639,Phone,Billing,Medium,2024-12-02,2024-12-02,Resolved,Agent_7
+TKT_100640,Web,Technical,Medium,2024-09-13,2024-09-13,Resolved,Agent_4
+TKT_100641,Phone,Billing,Medium,2025-01-05,2025-01-17,Resolved,Agent_2
+TKT_100642,Phone,General,Low,2024-10-16,2024-10-20,Resolved,Agent_6
+TKT_100643,Chat,Account Access,Medium,2025-01-30,2025-02-01,Resolved,Agent_17
+TKT_100644,Email,General,Low,2024-10-27,2024-10-30,Resolved,Agent_2
+TKT_100645,Email,Billing,Low,2025-02-23,2025-02-25,Resolved,Agent_17
+TKT_100646,Phone,Billing,Medium,2024-11-02,2024-11-02,Resolved,Agent_9
+TKT_100647,Web,Account Access,High,2024-11-21,2024-11-22,Resolved,Agent_12
+TKT_100648,Web,Billing,Low,2024-11-10,2024-11-10,Resolved,Agent_16
+TKT_100649,Phone,General,Medium,2024-11-28,2024-11-30,Resolved,Agent_13
+TKT_100650,Email,Technical,High,2024-11-16,2024-11-18,Resolved,Agent_4
+TKT_100651,Web,General,Low,2024-11-16,2024-11-19,Resolved,Agent_6
+TKT_100652,Web,Account Access,High,2025-02-03,2025-02-05,Resolved,Agent_16
+TKT_100653,Chat,Account Access,Low,2024-11-11,2024-11-12,Resolved,Agent_3
+TKT_100654,Chat,General,Low,2024-11-15,2024-11-17,Resolved,Agent_5
+TKT_100655,Chat,Account Access,Medium,2025-02-16,2025-02-16,Resolved,Agent_20
+TKT_100656,Phone,General,Medium,2024-09-13,2024-09-15,Resolved,Agent_17
+TKT_100657,Web,Account Access,Low,2025-02-11,2025-02-12,Resolved,Agent_17
+TKT_100658,Web,Billing,Medium,2024-12-18,2024-12-26,Resolved,Agent_15
+TKT_100659,Phone,Technical,Medium,2025-02-03,2025-02-07,Resolved,Agent_2
+TKT_100660,Chat,Billing,Medium,2024-09-30,2024-10-23,Resolved,Agent_14
+TKT_100661,Chat,Billing,High,2024-12-03,2024-12-03,Resolved,Agent_8
+TKT_100662,Phone,Account Access,Medium,2025-02-27,2025-03-01,Resolved,Agent_20
+TKT_100663,Chat,Technical,Low,2025-01-15,2025-01-20,Resolved,Agent_3
+TKT_100664,Phone,Billing,Medium,2024-10-02,2024-10-02,Resolved,Agent_14
+TKT_100665,Email,Technical,High,2025-02-02,2025-02-02,Resolved,Agent_8
+TKT_100666,Chat,Billing,High,2024-12-12,2024-12-12,Resolved,Agent_8
+TKT_100667,Phone,Account Access,Medium,2025-02-25,2025-02-26,Resolved,Agent_19
+TKT_100668,Chat,Account Access,Low,2024-12-24,,In Progress,Agent_2
+TKT_100669,Phone,Account Access,Low,2025-02-03,2025-02-05,Resolved,Agent_6
+TKT_100670,Web,Billing,Medium,2024-10-07,2024-10-13,Resolved,Agent_17
+TKT_100671,Phone,Account Access,Low,2024-10-22,2024-10-25,Resolved,Agent_4
+TKT_100672,Phone,Account Access,Low,2024-12-08,2024-12-08,Resolved,Agent_1
+TKT_100673,Chat,Billing,Low,2024-12-06,2024-12-14,Resolved,Agent_16
+TKT_100674,Chat,Account Access,High,2025-02-02,2025-02-02,Resolved,Agent_12
+TKT_100675,Phone,Account Access,Medium,2024-09-25,2024-10-02,Resolved,Agent_10
+TKT_100676,Email,Billing,Medium,2024-12-13,2024-12-15,Resolved,Agent_5
+TKT_100677,Phone,Billing,Low,2024-12-22,2024-12-22,Resolved,Agent_12
+TKT_100678,Chat,General,Medium,2024-12-04,2024-12-05,Resolved,Agent_4
+TKT_100679,Phone,Account Access,Medium,2025-01-07,2025-01-08,Resolved,Agent_3
+TKT_100680,Chat,Technical,Medium,2025-02-24,2025-03-01,Resolved,Agent_1
+TKT_100681,Web,Billing,Medium,2024-12-19,2024-12-21,Resolved,Agent_5
+TKT_100682,Chat,Technical,High,2024-12-17,2024-12-20,Resolved,Agent_18
+TKT_100683,Email,Account Access,Low,2024-12-13,2024-12-16,Resolved,Agent_18
+TKT_100684,Chat,Technical,Low,2024-10-31,,Escalated,Agent_5
+TKT_100685,Web,General,Low,2024-12-02,2024-12-02,Resolved,Agent_2
+TKT_100686,Email,Account Access,High,2024-09-30,2024-10-05,Resolved,Agent_7
+TKT_100687,Chat,Technical,Medium,2025-01-03,2025-01-08,Resolved,Agent_9
+TKT_100688,Phone,General,Low,2025-02-09,,Escalated,Agent_8
+TKT_100689,Email,General,Medium,2025-02-17,2025-02-22,Resolved,Agent_6
+TKT_100690,Phone,Technical,Low,2025-02-22,2025-02-22,Resolved,Agent_13
+TKT_100691,Email,Billing,Medium,2024-11-17,2024-11-24,Resolved,Agent_14
+TKT_100692,Phone,Account Access,Low,2024-10-24,2024-10-28,Resolved,Agent_3
+TKT_100693,Web,Billing,Medium,2024-10-28,2024-10-31,Resolved,Agent_15
+TKT_100694,Email,Billing,Medium,2024-10-29,2024-11-01,Resolved,Agent_17
+TKT_100695,Email,Billing,Low,2025-01-13,2025-01-14,Resolved,Agent_19
+TKT_100696,Phone,General,High,2025-02-10,2025-02-10,Resolved,Agent_4
+TKT_100697,Phone,Account Access,Low,2024-10-14,2024-10-19,Resolved,Agent_17
+TKT_100698,Phone,General,Low,2024-12-08,2024-12-09,Resolved,Agent_14
+TKT_100699,Email,Account Access,Medium,2024-11-07,,Pending,Agent_4
+TKT_100700,Email,Billing,High,2024-10-01,2024-10-01,Resolved,Agent_15
+TKT_100701,Phone,General,Low,2024-10-15,,In Progress,Agent_7
+TKT_100702,Chat,Technical,Medium,2024-09-30,2024-10-04,Resolved,Agent_5
+TKT_100703,Email,Technical,Medium,2024-12-07,2024-12-12,Resolved,Agent_5
+TKT_100704,Chat,Billing,Low,2024-12-17,2024-12-18,Resolved,Agent_10
+TKT_100705,Chat,General,Medium,2024-12-05,2024-12-05,Resolved,Agent_6
+TKT_100706,Web,Account Access,High,2024-11-06,2024-11-11,Resolved,Agent_4
+TKT_100707,Phone,Account Access,Medium,2025-01-11,2025-01-16,Resolved,Agent_3
+TKT_100708,Chat,Technical,Medium,2024-12-21,2024-12-23,Resolved,Agent_10
+TKT_100709,Phone,Technical,Medium,2024-11-26,2024-11-27,Resolved,Agent_9
+TKT_100710,Email,General,High,2025-01-03,2025-01-03,Resolved,Agent_2
+TKT_100711,Email,Account Access,Medium,2024-09-25,2024-09-29,Resolved,Agent_14
+TKT_100712,Chat,Billing,High,2025-02-16,2025-02-16,Resolved,Agent_16
+TKT_100713,Chat,Billing,Medium,2024-09-11,2024-09-16,Resolved,Agent_7
+TKT_100714,Phone,Technical,Medium,2024-11-03,,Pending,Agent_11
+TKT_100715,Web,Technical,High,2024-11-29,2024-12-07,Resolved,Agent_11
+TKT_100716,Phone,General,High,2024-11-15,2024-11-16,Resolved,Agent_2
+TKT_100717,Chat,General,Medium,2024-11-18,2024-11-18,Resolved,Agent_15
+TKT_100718,Phone,Billing,High,2025-01-02,2025-01-03,Resolved,Agent_17
+TKT_100719,Phone,Technical,Medium,2024-10-06,2024-10-11,Resolved,Agent_16
+TKT_100720,Web,Account Access,High,2025-02-22,,Pending,Agent_10
+TKT_100721,Phone,Technical,Low,2025-01-03,2025-01-04,Resolved,Agent_4
+TKT_100722,Phone,Billing,Medium,2024-12-15,2024-12-15,Resolved,Agent_20
+TKT_100723,Email,Account Access,Low,2024-11-02,2024-11-03,Resolved,Agent_16
+TKT_100724,Chat,Technical,Low,2024-09-30,2024-10-01,Resolved,Agent_13
+TKT_100725,Phone,Billing,Low,2024-12-09,2024-12-15,Resolved,Agent_4
+TKT_100726,Email,General,High,2024-10-08,2024-10-08,Resolved,Agent_20
+TKT_100727,Email,Account Access,Low,2024-11-21,2024-11-21,Resolved,Agent_11
+TKT_100728,Email,Billing,Medium,2024-10-14,2024-10-14,Resolved,Agent_10
+TKT_100729,Phone,General,High,2025-02-06,2025-02-09,Resolved,Agent_19
+TKT_100730,Phone,Technical,Low,2024-12-25,2024-12-26,Resolved,Agent_17
+TKT_100731,Web,Account Access,Medium,2025-02-14,2025-02-22,Resolved,Agent_1
+TKT_100732,Phone,General,High,2024-11-10,2024-11-10,Resolved,Agent_17
+TKT_100733,Email,General,Low,2024-11-04,2024-11-07,Resolved,Agent_7
+TKT_100734,Chat,Billing,Low,2024-12-17,2024-12-17,Resolved,Agent_18
+TKT_100735,Phone,General,Low,2024-09-12,2024-09-12,Resolved,Agent_2
+TKT_100736,Email,Account Access,High,2024-09-30,2024-10-01,Resolved,Agent_10
+TKT_100737,Web,Billing,Medium,2024-11-16,2024-11-19,Resolved,Agent_15
+TKT_100738,Email,Billing,High,2024-09-22,2024-09-22,Resolved,Agent_9
+TKT_100739,Web,Billing,High,2024-11-28,2024-12-05,Resolved,Agent_12
+TKT_100740,Chat,Technical,Medium,2025-02-23,2025-02-23,Resolved,Agent_1
+TKT_100741,Phone,Account Access,Low,2025-02-02,2025-02-05,Resolved,Agent_2
+TKT_100742,Email,General,Low,2025-02-03,,Escalated,Agent_10
+TKT_100743,Chat,Billing,Low,2025-01-20,2025-01-24,Resolved,Agent_6
+TKT_100744,Web,Technical,Medium,2025-01-05,2025-01-08,Resolved,Agent_1
+TKT_100745,Email,Account Access,Medium,2024-10-08,,In Progress,Agent_16
+TKT_100746,Phone,Technical,Medium,2024-12-13,2024-12-13,Resolved,Agent_14
+TKT_100747,Chat,Account Access,Medium,2024-11-26,2024-11-28,Resolved,Agent_15
+TKT_100748,Web,Technical,Low,2024-10-14,2024-10-17,Resolved,Agent_20
+TKT_100749,Phone,Account Access,Medium,2024-11-18,,In Progress,Agent_17
+TKT_100750,Web,General,High,2024-10-02,2024-10-07,Resolved,Agent_3
+TKT_100751,Email,Technical,Medium,2025-01-31,2025-02-01,Resolved,Agent_5
+TKT_100752,Web,General,Medium,2025-01-07,,In Progress,Agent_7
+TKT_100753,Phone,Billing,Medium,2025-02-04,,Pending,Agent_3
+TKT_100754,Email,General,Medium,2024-12-20,2024-12-21,Resolved,Agent_20
+TKT_100755,Chat,Account Access,Medium,2025-02-26,2025-02-27,Resolved,Agent_5
+TKT_100756,Phone,Account Access,Medium,2024-12-18,2024-12-18,Resolved,Agent_19
+TKT_100757,Chat,General,Low,2025-02-20,2025-02-24,Resolved,Agent_20
+TKT_100758,Phone,Technical,Low,2024-10-13,2024-10-13,Resolved,Agent_10
+TKT_100759,Chat,Account Access,Medium,2025-01-29,2025-01-31,Resolved,Agent_20
+TKT_100760,Web,General,Low,2025-02-26,2025-02-28,Resolved,Agent_14
+TKT_100761,Phone,Billing,Medium,2024-09-11,2024-09-11,Resolved,Agent_6
+TKT_100762,Chat,Account Access,Medium,2025-02-17,2025-02-17,Resolved,Agent_8
+TKT_100763,Phone,Account Access,Low,2024-12-29,2024-12-29,Resolved,Agent_4
+TKT_100764,Email,Account Access,Low,2024-12-19,2024-12-20,Resolved,Agent_5
+TKT_100765,Chat,Technical,Medium,2024-12-30,2025-01-10,Resolved,Agent_20
+TKT_100766,Chat,Account Access,Medium,2024-10-19,2024-10-22,Resolved,Agent_9
+TKT_100767,Phone,Technical,High,2024-09-28,2024-09-30,Resolved,Agent_19
+TKT_100768,Email,Account Access,High,2024-10-05,2024-10-08,Resolved,Agent_16
+TKT_100769,Chat,Billing,Low,2025-02-20,2025-02-20,Resolved,Agent_19
+TKT_100770,Chat,Billing,Medium,2024-11-03,2024-11-04,Resolved,Agent_10
+TKT_100771,Phone,Billing,High,2025-02-16,2025-02-16,Resolved,Agent_16
+TKT_100772,Email,Billing,Medium,2024-10-22,2024-10-23,Resolved,Agent_2
+TKT_100773,Web,Technical,Medium,2024-09-04,2024-09-06,Resolved,Agent_9
+TKT_100774,Email,General,High,2025-01-30,2025-02-03,Resolved,Agent_11
+TKT_100775,Phone,Account Access,Low,2025-01-24,2025-01-24,Resolved,Agent_3
+TKT_100776,Phone,General,Medium,2024-09-04,2024-09-06,Resolved,Agent_14
+TKT_100777,Chat,Account Access,Medium,2025-01-10,2025-01-10,Resolved,Agent_2
+TKT_100778,Web,Account Access,Low,2024-09-18,2024-09-19,Resolved,Agent_1
+TKT_100779,Phone,Billing,Low,2024-11-29,2024-11-29,Resolved,Agent_8
+TKT_100780,Web,Billing,Medium,2025-01-24,2025-01-26,Resolved,Agent_10
+TKT_100781,Email,Billing,Low,2024-12-27,2024-12-29,Resolved,Agent_12
+TKT_100782,Phone,Technical,Medium,2024-12-26,2024-12-27,Resolved,Agent_12
+TKT_100783,Chat,Billing,Medium,2025-02-18,2025-02-19,Resolved,Agent_1
+TKT_100784,Web,General,High,2024-09-11,2024-09-16,Resolved,Agent_17
+TKT_100785,Chat,Technical,High,2025-02-19,2025-02-27,Resolved,Agent_16
+TKT_100786,Phone,Billing,High,2025-02-26,2025-02-28,Resolved,Agent_13
+TKT_100787,Chat,Account Access,Low,2024-10-12,2024-10-12,Resolved,Agent_7
+TKT_100788,Chat,General,Medium,2025-01-01,2025-01-01,Resolved,Agent_15
+TKT_100789,Phone,Billing,Medium,2024-10-08,2024-10-10,Resolved,Agent_8
+TKT_100790,Web,General,High,2025-02-22,,Escalated,Agent_8
+TKT_100791,Phone,Account Access,Medium,2024-09-09,2024-09-11,Resolved,Agent_7
+TKT_100792,Phone,General,High,2025-02-16,2025-02-22,Resolved,Agent_12
+TKT_100793,Email,Billing,Low,2024-12-19,2024-12-20,Resolved,Agent_18
+TKT_100794,Web,Technical,High,2025-02-01,2025-02-05,Resolved,Agent_4
+TKT_100795,Email,General,Low,2025-02-18,2025-02-18,Resolved,Agent_11
+TKT_100796,Chat,Account Access,High,2024-11-02,2024-11-05,Resolved,Agent_15
+TKT_100797,Email,Account Access,Medium,2024-11-07,,In Progress,Agent_8
+TKT_100798,Chat,Account Access,Low,2024-12-03,2024-12-05,Resolved,Agent_20
+TKT_100799,Chat,Billing,Low,2024-11-05,2024-11-07,Resolved,Agent_15
+TKT_100800,Phone,Account Access,High,2024-12-23,2024-12-25,Resolved,Agent_19
+TKT_100801,Phone,General,Medium,2024-09-14,2024-09-19,Resolved,Agent_9
+TKT_100802,Email,General,Low,2025-01-29,2025-01-29,Resolved,Agent_12
+TKT_100803,Phone,Account Access,Medium,2024-10-03,2024-10-08,Resolved,Agent_17
+TKT_100804,Email,Billing,Low,2025-01-05,2025-01-06,Resolved,Agent_13
+TKT_100805,Chat,General,Medium,2025-01-28,2025-01-28,Resolved,Agent_13
+TKT_100806,Chat,Account Access,High,2024-11-24,2024-11-25,Resolved,Agent_9
+TKT_100807,Email,Billing,Medium,2024-11-03,2024-11-06,Resolved,Agent_13
+TKT_100808,Phone,Billing,Medium,2025-01-27,2025-01-28,Resolved,Agent_13
+TKT_100809,Web,Billing,High,2024-10-17,2024-10-17,Resolved,Agent_18
+TKT_100810,Web,Account Access,Medium,2024-11-30,2024-12-03,Resolved,Agent_8
+TKT_100811,Web,Technical,Medium,2024-11-26,2024-11-27,Resolved,Agent_17
+TKT_100812,Web,Technical,High,2024-10-28,2024-10-28,Resolved,Agent_6
+TKT_100813,Chat,Technical,Medium,2024-11-05,2024-11-13,Resolved,Agent_3
+TKT_100814,Email,Account Access,High,2024-12-25,2024-12-26,Resolved,Agent_1
+TKT_100815,Web,Technical,High,2025-01-04,2025-01-06,Resolved,Agent_2
+TKT_100816,Email,General,Low,2024-09-25,2024-09-29,Resolved,Agent_1
+TKT_100817,Chat,General,High,2024-11-19,2024-11-19,Resolved,Agent_2
+TKT_100818,Email,Technical,Medium,2024-09-21,2024-09-22,Resolved,Agent_16
+TKT_100819,Phone,General,Low,2024-09-10,2024-09-12,Resolved,Agent_20
+TKT_100820,Email,Technical,Medium,2024-09-04,2024-09-07,Resolved,Agent_9
+TKT_100821,Chat,Account Access,Medium,2025-01-21,2025-01-21,Resolved,Agent_5
+TKT_100822,Web,General,Medium,2024-09-02,,Escalated,Agent_10
+TKT_100823,Email,General,High,2024-11-06,2024-11-06,Resolved,Agent_9
+TKT_100824,Chat,Technical,High,2024-10-12,2024-10-17,Resolved,Agent_12
+TKT_100825,Email,Billing,Low,2024-11-12,2024-11-16,Resolved,Agent_7
+TKT_100826,Web,Account Access,Medium,2025-01-29,2025-01-30,Resolved,Agent_5
+TKT_100827,Phone,General,Medium,2025-02-25,,Escalated,Agent_2
+TKT_100828,Email,Technical,Medium,2024-12-15,2024-12-18,Resolved,Agent_3
+TKT_100829,Chat,General,Medium,2024-11-08,2024-11-08,Resolved,Agent_19
+TKT_100830,Chat,General,Low,2025-01-06,2025-01-13,Resolved,Agent_12
+TKT_100831,Phone,General,Low,2025-02-24,2025-02-27,Resolved,Agent_19
+TKT_100832,Email,Technical,Low,2025-02-26,2025-02-26,Resolved,Agent_20
+TKT_100833,Phone,Billing,Medium,2025-02-20,2025-02-25,Resolved,Agent_2
+TKT_100834,Web,Technical,Low,2025-01-24,2025-02-01,Resolved,Agent_17
+TKT_100835,Chat,Account Access,Medium,2025-01-05,2025-01-05,Resolved,Agent_3
+TKT_100836,Phone,Billing,High,2025-02-26,2025-03-07,Resolved,Agent_7
+TKT_100837,Chat,General,Low,2024-09-20,2024-09-21,Resolved,Agent_7
+TKT_100838,Email,Technical,Low,2024-10-26,2024-10-29,Resolved,Agent_3
+TKT_100839,Chat,Technical,High,2024-09-27,2024-10-06,Resolved,Agent_7
+TKT_100840,Web,General,High,2024-11-14,2024-11-17,Resolved,Agent_4
+TKT_100841,Email,Technical,Medium,2025-02-23,2025-02-28,Resolved,Agent_20
+TKT_100842,Phone,Billing,Medium,2024-09-14,2024-09-17,Resolved,Agent_17
+TKT_100843,Web,Account Access,High,2024-11-21,2024-11-22,Resolved,Agent_15
+TKT_100844,Phone,Billing,Medium,2024-10-20,2024-10-22,Resolved,Agent_3
+TKT_100845,Chat,General,Low,2024-12-07,2024-12-11,Resolved,Agent_20
+TKT_100846,Email,Technical,Low,2024-11-18,2024-11-19,Resolved,Agent_2
+TKT_100847,Chat,Billing,Medium,2025-02-06,2025-02-06,Resolved,Agent_14
+TKT_100848,Web,General,Medium,2024-12-10,2024-12-13,Resolved,Agent_20
+TKT_100849,Email,Technical,Low,2024-10-05,2024-10-11,Resolved,Agent_17
+TKT_100850,Phone,Technical,Medium,2025-01-08,2025-01-16,Resolved,Agent_6
+TKT_100851,Email,General,Low,2024-11-08,2024-11-15,Resolved,Agent_9
+TKT_100852,Email,Account Access,Medium,2025-02-17,,Pending,Agent_2
+TKT_100853,Phone,Technical,High,2024-12-19,2024-12-25,Resolved,Agent_1
+TKT_100854,Email,Account Access,Medium,2025-01-03,2025-01-04,Resolved,Agent_1
+TKT_100855,Web,Billing,High,2024-11-09,2024-11-09,Resolved,Agent_18
+TKT_100856,Chat,Account Access,High,2024-09-13,2024-09-13,Resolved,Agent_17
+TKT_100857,Email,General,Medium,2025-02-17,2025-02-23,Resolved,Agent_19
+TKT_100858,Chat,Billing,Medium,2024-11-06,2024-11-10,Resolved,Agent_7
+TKT_100859,Web,Billing,Medium,2024-11-07,2024-11-21,Resolved,Agent_11
+TKT_100860,Email,Technical,Medium,2024-09-09,2024-09-09,Resolved,Agent_19
+TKT_100861,Web,General,High,2024-09-20,,Escalated,Agent_17
+TKT_100862,Email,Account Access,Medium,2024-11-22,,In Progress,Agent_11
+TKT_100863,Web,Billing,Medium,2025-02-16,2025-02-18,Resolved,Agent_16
+TKT_100864,Chat,General,Low,2024-10-08,2024-10-09,Resolved,Agent_14
+TKT_100865,Web,Billing,Low,2024-12-28,,In Progress,Agent_18
+TKT_100866,Email,Technical,Low,2025-02-12,2025-02-12,Resolved,Agent_16
+TKT_100867,Web,General,Low,2025-02-15,2025-02-15,Resolved,Agent_4
+TKT_100868,Chat,Account Access,Low,2024-12-30,2025-01-03,Resolved,Agent_7
+TKT_100869,Web,General,Low,2024-11-17,2024-11-18,Resolved,Agent_2
+TKT_100870,Chat,Billing,Medium,2025-01-18,2025-01-22,Resolved,Agent_20
+TKT_100871,Email,Billing,High,2024-10-28,2024-10-28,Resolved,Agent_13
+TKT_100872,Email,General,Low,2025-01-13,2025-01-13,Resolved,Agent_1
+TKT_100873,Phone,Account Access,High,2024-11-08,2024-11-08,Resolved,Agent_1
+TKT_100874,Web,General,Medium,2024-11-17,2024-11-18,Resolved,Agent_3
+TKT_100875,Phone,Technical,High,2025-02-16,2025-02-18,Resolved,Agent_18
+TKT_100876,Phone,General,Low,2024-10-31,2024-11-01,Resolved,Agent_7
+TKT_100877,Chat,General,Low,2025-02-05,2025-02-10,Resolved,Agent_17
+TKT_100878,Email,Billing,Low,2025-02-17,2025-02-19,Resolved,Agent_16
+TKT_100879,Email,Account Access,Medium,2025-02-02,2025-02-05,Resolved,Agent_18
+TKT_100880,Chat,Billing,Medium,2024-12-23,2024-12-29,Resolved,Agent_1
+TKT_100881,Phone,Billing,Low,2025-02-23,2025-02-23,Resolved,Agent_13
+TKT_100882,Web,Account Access,Medium,2024-12-06,2024-12-06,Resolved,Agent_2
+TKT_100883,Web,Technical,Medium,2025-01-15,2025-01-16,Resolved,Agent_18
+TKT_100884,Web,Billing,Medium,2024-11-24,2024-11-26,Resolved,Agent_10
+TKT_100885,Email,Technical,High,2024-12-10,2024-12-12,Resolved,Agent_14
+TKT_100886,Email,Technical,Medium,2024-11-21,2024-11-23,Resolved,Agent_15
+TKT_100887,Phone,Account Access,High,2024-11-18,2024-11-20,Resolved,Agent_19
+TKT_100888,Chat,Account Access,Medium,2025-02-01,2025-02-02,Resolved,Agent_18
+TKT_100889,Web,Technical,High,2024-10-12,2024-10-14,Resolved,Agent_12
+TKT_100890,Email,Account Access,Medium,2024-12-16,2024-12-20,Resolved,Agent_8
+TKT_100891,Web,Account Access,Low,2024-09-07,2024-09-08,Resolved,Agent_1
+TKT_100892,Email,Technical,Medium,2025-01-22,2025-01-23,Resolved,Agent_6
+TKT_100893,Web,Account Access,High,2024-11-17,2024-11-19,Resolved,Agent_7
+TKT_100894,Email,Billing,High,2024-11-02,2024-11-02,Resolved,Agent_11
+TKT_100895,Chat,Billing,Low,2024-10-19,2024-10-25,Resolved,Agent_13
+TKT_100896,Chat,Account Access,Medium,2024-09-26,2024-09-28,Resolved,Agent_8
+TKT_100897,Chat,Billing,Low,2024-11-18,2024-11-19,Resolved,Agent_16
+TKT_100898,Web,Billing,High,2024-10-16,2024-10-18,Resolved,Agent_2
+TKT_100899,Web,Account Access,Medium,2024-11-22,2024-11-23,Resolved,Agent_6
+TKT_100900,Email,Account Access,High,2024-09-18,2024-09-19,Resolved,Agent_19
+TKT_100901,Web,General,Medium,2024-09-19,2024-09-20,Resolved,Agent_11
+TKT_100902,Email,Account Access,Medium,2024-11-08,2024-11-08,Resolved,Agent_5
+TKT_100903,Phone,Technical,Medium,2024-09-15,2024-09-15,Resolved,Agent_8
+TKT_100904,Email,Technical,Medium,2024-11-11,2024-11-18,Resolved,Agent_14
+TKT_100905,Phone,Billing,Medium,2024-10-08,2024-10-10,Resolved,Agent_9
+TKT_100906,Chat,Billing,High,2024-12-24,,Pending,Agent_13
+TKT_100907,Chat,Billing,Low,2024-12-30,2025-01-09,Resolved,Agent_2
+TKT_100908,Web,Technical,Low,2024-09-06,2024-09-06,Resolved,Agent_12
+TKT_100909,Email,Billing,Medium,2025-01-17,2025-01-17,Resolved,Agent_20
+TKT_100910,Web,Account Access,Low,2024-12-15,2024-12-16,Resolved,Agent_18
+TKT_100911,Email,Billing,Medium,2024-10-20,2024-10-20,Resolved,Agent_7
+TKT_100912,Email,Technical,Low,2024-10-08,2024-10-08,Resolved,Agent_12
+TKT_100913,Chat,General,High,2025-01-12,2025-01-14,Resolved,Agent_19
+TKT_100914,Chat,Account Access,Low,2024-11-09,2024-11-11,Resolved,Agent_1
+TKT_100915,Phone,Billing,High,2024-10-27,2024-10-28,Resolved,Agent_10
+TKT_100916,Phone,Billing,Medium,2025-02-27,2025-02-28,Resolved,Agent_11
+TKT_100917,Phone,Billing,Medium,2025-01-04,2025-01-05,Resolved,Agent_7
+TKT_100918,Web,Technical,Low,2024-09-18,2024-09-18,Resolved,Agent_20
+TKT_100919,Phone,General,Medium,2025-01-24,2025-01-25,Resolved,Agent_12
+TKT_100920,Email,Billing,Medium,2025-02-24,2025-03-06,Resolved,Agent_4
+TKT_100921,Email,General,Medium,2024-11-28,2024-11-29,Resolved,Agent_5
+TKT_100922,Chat,General,Medium,2024-10-24,,Pending,Agent_8
+TKT_100923,Chat,Technical,Medium,2025-02-01,2025-02-03,Resolved,Agent_3
+TKT_100924,Chat,Account Access,Medium,2024-11-15,2024-11-22,Resolved,Agent_18
+TKT_100925,Email,Technical,Medium,2024-09-02,2024-09-02,Resolved,Agent_12
+TKT_100926,Web,General,Medium,2024-11-12,2024-11-13,Resolved,Agent_5
+TKT_100927,Phone,Billing,Low,2025-02-16,2025-02-16,Resolved,Agent_10
+TKT_100928,Web,General,Medium,2025-02-03,2025-02-06,Resolved,Agent_16
+TKT_100929,Web,Technical,Medium,2025-01-10,2025-01-10,Resolved,Agent_5
+TKT_100930,Phone,Technical,Medium,2025-02-15,2025-02-15,Resolved,Agent_4
+TKT_100931,Web,Account Access,Low,2024-12-15,2024-12-15,Resolved,Agent_5
+TKT_100932,Web,Account Access,High,2024-09-09,2024-09-11,Resolved,Agent_3
+TKT_100933,Email,Billing,Low,2024-11-16,2024-11-17,Resolved,Agent_14
+TKT_100934,Phone,Billing,Medium,2024-10-03,2024-10-03,Resolved,Agent_5
+TKT_100935,Web,General,Medium,2024-12-30,2024-12-30,Resolved,Agent_19
+TKT_100936,Chat,General,Medium,2024-09-04,,Escalated,Agent_12
+TKT_100937,Chat,Account Access,Medium,2024-09-09,2024-09-15,Resolved,Agent_3
+TKT_100938,Chat,General,Medium,2024-12-14,2024-12-16,Resolved,Agent_13
+TKT_100939,Chat,General,Medium,2024-11-19,2024-11-19,Resolved,Agent_10
+TKT_100940,Email,General,Medium,2024-09-17,,In Progress,Agent_14
+TKT_100941,Chat,Billing,High,2024-10-19,2024-10-20,Resolved,Agent_4
+TKT_100942,Email,General,Medium,2025-01-08,2025-01-16,Resolved,Agent_15
+TKT_100943,Phone,General,Low,2024-10-21,2024-10-23,Resolved,Agent_17
+TKT_100944,Web,Billing,Medium,2024-12-20,2024-12-23,Resolved,Agent_16
+TKT_100945,Web,Billing,Medium,2025-02-11,2025-02-15,Resolved,Agent_18
+TKT_100946,Email,Billing,Medium,2024-10-19,,In Progress,Agent_12
+TKT_100947,Phone,Billing,Low,2024-11-23,2024-11-23,Resolved,Agent_5
+TKT_100948,Email,General,Medium,2024-10-07,2024-10-12,Resolved,Agent_18
+TKT_100949,Chat,Billing,Medium,2024-10-22,2024-11-01,Resolved,Agent_12
+TKT_100950,Email,Account Access,Medium,2024-11-08,2024-11-08,Resolved,Agent_9
+TKT_100951,Email,General,Low,2025-01-16,2025-01-16,Resolved,Agent_19
+TKT_100952,Email,Account Access,High,2024-12-22,2024-12-22,Resolved,Agent_17
+TKT_100953,Email,Technical,Low,2024-11-01,2024-11-02,Resolved,Agent_6
+TKT_100954,Phone,General,Medium,2024-10-20,2024-10-20,Resolved,Agent_1
+TKT_100955,Chat,Technical,Low,2024-10-06,2024-10-07,Resolved,Agent_6
+TKT_100956,Email,Technical,Low,2024-09-21,,Pending,Agent_20
+TKT_100957,Web,Billing,Medium,2025-02-03,2025-02-03,Resolved,Agent_15
+TKT_100958,Chat,Technical,Medium,2025-01-06,2025-01-09,Resolved,Agent_10
+TKT_100959,Email,General,High,2024-11-06,2024-11-09,Resolved,Agent_13
+TKT_100960,Phone,Account Access,Medium,2024-12-18,2024-12-24,Resolved,Agent_16
+TKT_100961,Phone,Billing,Medium,2024-11-26,2024-11-30,Resolved,Agent_19
+TKT_100962,Phone,Account Access,High,2024-10-12,2024-10-21,Resolved,Agent_17
+TKT_100963,Phone,General,Medium,2024-11-01,2024-11-04,Resolved,Agent_7
+TKT_100964,Chat,Technical,Low,2024-11-20,,Pending,Agent_5
+TKT_100965,Chat,Account Access,Low,2024-09-29,2024-09-29,Resolved,Agent_14
+TKT_100966,Email,Billing,High,2024-09-12,2024-09-12,Resolved,Agent_11
+TKT_100967,Phone,General,Medium,2024-11-18,2024-11-18,Resolved,Agent_3
+TKT_100968,Chat,General,Medium,2024-11-15,2024-11-18,Resolved,Agent_13
+TKT_100969,Email,Billing,Medium,2024-10-29,2024-10-29,Resolved,Agent_18
+TKT_100970,Web,Billing,High,2024-09-18,2024-09-21,Resolved,Agent_18
+TKT_100971,Web,Account Access,Medium,2025-02-09,,Pending,Agent_9
+TKT_100972,Phone,Technical,Medium,2025-02-26,2025-03-07,Resolved,Agent_4
+TKT_100973,Phone,Account Access,Medium,2025-02-03,2025-02-04,Resolved,Agent_16
+TKT_100974,Web,Technical,High,2024-11-07,2024-11-12,Resolved,Agent_7
+TKT_100975,Email,General,Medium,2025-01-11,,In Progress,Agent_18
+TKT_100976,Chat,Billing,Medium,2024-12-17,2024-12-29,Resolved,Agent_9
+TKT_100977,Phone,General,Medium,2024-12-28,2024-12-28,Resolved,Agent_13
+TKT_100978,Chat,General,Medium,2024-10-14,2024-10-17,Resolved,Agent_5
+TKT_100979,Chat,Account Access,Medium,2024-11-25,,Escalated,Agent_16
+TKT_100980,Email,General,Medium,2024-11-05,2024-11-05,Resolved,Agent_17
+TKT_100981,Web,Billing,Low,2025-01-15,2025-01-15,Resolved,Agent_6
+TKT_100982,Web,Account Access,Low,2024-09-03,2024-09-04,Resolved,Agent_16
+TKT_100983,Chat,General,Medium,2024-12-17,,Pending,Agent_14
+TKT_100984,Email,General,Medium,2025-02-11,,Escalated,Agent_2
+TKT_100985,Email,Technical,Medium,2024-10-22,2024-10-22,Resolved,Agent_15
+TKT_100986,Phone,General,Low,2025-01-18,2025-01-21,Resolved,Agent_7
+TKT_100987,Email,Technical,High,2024-09-12,2024-09-14,Resolved,Agent_8
+TKT_100988,Chat,Account Access,Medium,2024-10-05,2024-10-06,Resolved,Agent_11
+TKT_100989,Chat,General,High,2025-01-16,2025-01-18,Resolved,Agent_8
+TKT_100990,Phone,General,Medium,2024-11-05,2024-11-12,Resolved,Agent_20
+TKT_100991,Email,Billing,Medium,2025-01-31,2025-02-02,Resolved,Agent_13
+TKT_100992,Phone,Billing,Low,2024-11-30,2024-12-02,Resolved,Agent_20
+TKT_100993,Email,General,Medium,2024-12-02,2024-12-04,Resolved,Agent_1
+TKT_100994,Chat,Billing,Medium,2024-09-18,,Pending,Agent_19
+TKT_100995,Phone,Account Access,Medium,2025-02-17,2025-02-18,Resolved,Agent_1
+TKT_100996,Web,Billing,Medium,2024-12-07,2024-12-13,Resolved,Agent_9
+TKT_100997,Web,General,Low,2024-12-01,2024-12-07,Resolved,Agent_13
+TKT_100998,Phone,Billing,Medium,2025-02-17,2025-02-23,Resolved,Agent_5
+TKT_100999,Phone,Account Access,Medium,2025-01-21,2025-01-22,Resolved,Agent_19
